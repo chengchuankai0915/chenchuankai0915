@@ -18,6 +18,8 @@ public class FindFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.find_fragment, null);
+
+
         return view;
     }
 }
