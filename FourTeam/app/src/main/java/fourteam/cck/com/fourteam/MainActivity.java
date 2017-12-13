@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.hjm.bottomtabbar.BottomTabBar;
 
-import fourteam.cck.com.fourteam.R;
 import fourteam.cck.com.fourteam.fragment.ChoicenessFragment;
 import fourteam.cck.com.fourteam.fragment.FindFragment;
 import fourteam.cck.com.fourteam.fragment.MineFragment;
