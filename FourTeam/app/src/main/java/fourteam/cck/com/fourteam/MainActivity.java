@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //加载布局
         setContentView(R.layout.activity_main);
         //初始化组件
         BottomTabBar btb= (BottomTabBar) findViewById(R.id.btb);
