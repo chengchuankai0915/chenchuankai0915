@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="fourteam.cck.com.fourteam.activity.MainActivity">
+    tools:context="fourteam.cck.com.fourteam.MainActivity">
 
     <com.hjm.bottomtabbar.BottomTabBar
         android:id="@+id/btb"
