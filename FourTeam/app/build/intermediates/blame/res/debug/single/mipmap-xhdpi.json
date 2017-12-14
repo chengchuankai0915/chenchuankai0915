@@ -128,6 +128,10 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bottom_bg.png",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\bottom_bg.png"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },

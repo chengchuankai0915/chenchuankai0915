@@ -3,13 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:background="@mipmap/my_bg_colorful"
+    android:background="@mipmap/bg_colorful"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <RelativeLayout
-        android:layout_marginTop="30dp"
-        android:background="#b7b21a"
+        android:background="#FF5722"
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="50dp">
@@ -45,6 +44,9 @@
         android:layout_gravity="center"
         android:id="@+id/tabs"
         android:layout_width="wrap_content"
+        app:pstsIndicatorColor="#669900"
+        app:pstsIndicatorHeight="2dp"
+        app:pstsTabPaddingLeftRight="30dp"
         android:layout_height="30dp" />
 
     <android.support.v4.view.ViewPager
