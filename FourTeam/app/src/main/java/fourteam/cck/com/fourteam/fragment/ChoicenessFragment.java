@@ -10,7 +10,6 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.EditText;
 import android.widget.Toast;
 
 import com.youth.banner.Banner;
@@ -37,7 +36,6 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
     /**
      * 一念天堂
      */
-    private EditText mEtFind;
     private RecyclerView mRvList;
     List<String> list=new ArrayList<>();
     @Nullable
@@ -52,7 +50,6 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
 
     private void initView(View view) {
         mBanner = (Banner) view.findViewById(R.id.banner);
-        mEtFind = (EditText) view.findViewById(R.id.et_find);
         mRvList = (RecyclerView) view.findViewById(R.id.rv_list);
     }
 
@@ -82,8 +79,12 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
             @Override
             public void onChildItemClick(ChoicenessBean.RetBean.ListBean.ChildListBean Rvlist) {
                 String title = Rvlist.getTitle();
+                String loadURL = Rvlist.getLoadURL();
+                Rvlist.getAirTime();
                 Toast.makeText(getActivity(),title,Toast.LENGTH_SHORT).show();
                 Intent intent=new Intent(getActivity(), XiangQingActivity.class);
+                intent.putExtra("title",title);
+                intent.putExtra("loadURL",loadURL);
                 startActivity(intent);
             }
         });

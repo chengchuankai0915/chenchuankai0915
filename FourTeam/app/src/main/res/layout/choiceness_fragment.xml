@@ -7,8 +7,15 @@
     android:background="@mipmap/bg_colorful"
     android:orientation="vertical">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,44 +32,31 @@
             </com.youth.banner.Banner>
 
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="50dp"
-                android:layout_marginTop="10dp"
-                android:gravity="center_vertical"
-                android:orientation="horizontal">
+            <RelativeLayout
+                android:id="@+id/find"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/black_trans_bg"
+                android:paddingLeft="15dp">
 
-
-                <LinearLayout
-                    android:layout_width="0dp"
-                    android:layout_height="match_parent"
-                    android:layout_marginBottom="5dp"
-                    android:layout_marginLeft="20dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="5dp"
-                    android:layout_weight="1"
-                    android:background="#33000000"
+                <TextView
+                    android:id="@+id/etSearchKey"
+                    android:layout_width="match_parent"
+                    android:layout_height="38dp"
+                    android:background="@null"
+                    android:drawableLeft="@mipmap/search"
+                    android:drawablePadding="10dp"
+                    android:imeOptions="actionSearch"
+                    android:text="一念天堂"
+                    android:textColor="#c4c3c9"
+                    android:textSize="15sp"
                     android:gravity="center_vertical"
-                    android:orientation="horizontal">
+                    />
 
-                    <ImageView
-                        android:layout_width="20dp"
-                        android:layout_height="20dp"
-                        android:layout_marginLeft="10dp"
-                        android:background="@mipmap/fancy" />
 
-                    <EditText
-                        android:id="@+id/et_find"
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:layout_marginLeft="5dp"
-                        android:layout_weight="1"
-                        android:background="@null"
-                        android:hint="一念天堂" />
-                </LinearLayout>
-
-            </LinearLayout>
-
+            </RelativeLayout>
         </RelativeLayout>
     </LinearLayout>
 
@@ -71,12 +65,14 @@
         android:layout_height="wrap_content"
         android:text="精彩推荐"/>
 
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_list"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
     </android.support.v7.widget.RecyclerView>
-
+    </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Thu Dec 14 20:52:59 CST 2017
 base.0=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+=======
+#Thu Dec 14 20:18:43 CST 2017
+base.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+>>>>>>> 42df27674c5a30aa7e3da261d132e75763a99263
 renamed.0=classes.dex
-file.0=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
