@@ -408,6 +408,10 @@
         "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Users\\C-PC\\.android\\build-cache\\aa6b749319270a3b19ba3730d2d898609a9d3fce\\output\\res\\drawable\\background_tab.xml"
+    },
+    {
         "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -498,6 +502,10 @@
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_trans_bg.xml",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\black_trans_bg.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",

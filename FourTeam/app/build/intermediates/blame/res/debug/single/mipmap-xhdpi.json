@@ -20,12 +20,12 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\fancy_select.png"
     },
     {
-        "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special.png",
-        "source": "D:\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\special.png"
-    },
-    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_bg.png",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_bg.png"
+    },
+    {
+        "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special.png",
+        "source": "D:\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\special.png"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special.png",
@@ -34,6 +34,10 @@
     {
         "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fancy_select.png",
         "source": "D:\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\fancy_select.png"
+    },
+    {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_bg_colorful.png",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_bg_colorful.png"
     },
     {
         "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special_select.png",
@@ -56,6 +60,10 @@
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\found.png"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\search.png",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\search.png"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\special_select.png",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\special_select.png"
     },
@@ -64,8 +72,16 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    },
+    {
         "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_select.png",
         "source": "D:\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_select.png"
+    },
+    {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\collection.png",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\collection.png"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fancy.png",
