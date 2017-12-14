@@ -5,4 +5,5 @@ package fourteam.cck.com.fourteam.csh.model;
  */
 
 public interface SpecialModel {
+
 }
