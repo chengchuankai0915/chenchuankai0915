@@ -72,16 +72,26 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_bg_colorful.png",
+        "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_bg_colorful.png"
+=======
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\back.png"
+>>>>>>> 42df27674c5a30aa7e3da261d132e75763a99263
     },
     {
         "merged": "D:\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_select.png",
         "source": "D:\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_select.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\right.png",
+        "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\right.png"
+=======
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\collection.png",
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\collection.png"
+>>>>>>> 42df27674c5a30aa7e3da261d132e75763a99263
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\fancy.png",
@@ -150,5 +160,9 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_select.png",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_select.png"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\my_set.png",
+        "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\mipmap-xhdpi\\my_set.png"
     }
 ]
