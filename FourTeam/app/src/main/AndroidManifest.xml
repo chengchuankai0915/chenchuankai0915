@@ -3,6 +3,7 @@
     package="fourteam.cck.com.fourteam">
 
     <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".app.Myapp"
         android:allowBackup="true"
@@ -18,6 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.XiangQingActivity"></activity>
     </application>
 
 </manifest>

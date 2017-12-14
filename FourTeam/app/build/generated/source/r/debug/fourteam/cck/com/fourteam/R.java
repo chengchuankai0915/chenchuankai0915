@@ -184,6 +184,10 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int activityChooserViewStyle=0x7f010090;
+        /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         */
+        public static final int actualImageResource=0x7f01012c;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -199,9 +203,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
          */
         public static final int actualImageScaleType=0x7f0100f8;
+        /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+         */
+        public static final int actualImageUri=0x7f01012b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -290,7 +303,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int backgroundTint=0x7f01014a;
+        public static final int backgroundTint=0x7f01014c;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -304,7 +317,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
          */
-        public static final int backgroundTintMode=0x7f01014b;
+        public static final int backgroundTintMode=0x7f01014d;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -349,7 +362,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
          */
-        public static final int buttonGravity=0x7f01013f;
+        public static final int buttonGravity=0x7f010141;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -408,11 +421,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int collapseContentDescription=0x7f010141;
+        public static final int collapseContentDescription=0x7f010143;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int collapseIcon=0x7f010140;
+        public static final int collapseIcon=0x7f010142;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -738,6 +751,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
          */
         public static final int failureImageScaleType=0x7f0100f4;
@@ -1448,7 +1462,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int logoDescription=0x7f010144;
+        public static final int logoDescription=0x7f010146;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1458,7 +1472,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int maxButtonHeight=0x7f01013e;
+        public static final int maxButtonHeight=0x7f010140;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1478,11 +1492,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int navigationContentDescription=0x7f010143;
+        public static final int navigationContentDescription=0x7f010145;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int navigationIcon=0x7f010142;
+        public static final int navigationIcon=0x7f010144;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -1526,7 +1540,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingEnd=0x7f010148;
+        public static final int paddingEnd=0x7f01014a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1536,7 +1550,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int paddingStart=0x7f010147;
+        public static final int paddingStart=0x7f010149;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1584,6 +1598,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
          */
         public static final int placeholderImageScaleType=0x7f0100f0;
@@ -1638,6 +1653,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
          */
         public static final int progressBarImageScaleType=0x7f0100f6;
@@ -1702,6 +1718,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
          */
         public static final int retryImageScaleType=0x7f0100f2;
@@ -1859,7 +1876,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int showText=0x7f010135;
+        public static final int showText=0x7f010137;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -1903,7 +1920,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int splitTrack=0x7f010134;
+        public static final int splitTrack=0x7f010136;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1943,7 +1960,7 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int subtitleTextAppearance=0x7f010137;
+        public static final int subtitleTextAppearance=0x7f010139;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -1952,7 +1969,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int subtitleTextColor=0x7f010146;
+        public static final int subtitleTextColor=0x7f010148;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1970,7 +1987,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchMinWidth=0x7f010132;
+        public static final int switchMinWidth=0x7f010134;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1980,7 +1997,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int switchPadding=0x7f010133;
+        public static final int switchPadding=0x7f010135;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -1988,7 +2005,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int switchTextAppearance=0x7f010131;
+        public static final int switchTextAppearance=0x7f010133;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2151,7 +2168,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int theme=0x7f010149;
+        public static final int theme=0x7f01014b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2171,7 +2188,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thumbTextPadding=0x7f010130;
+        public static final int thumbTextPadding=0x7f010132;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2180,7 +2197,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int thumbTint=0x7f01012b;
+        public static final int thumbTint=0x7f01012d;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2195,7 +2212,7 @@ containing a value of this type.
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
          */
-        public static final int thumbTintMode=0x7f01012c;
+        public static final int thumbTintMode=0x7f01012e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2241,7 +2258,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMargin=0x7f010138;
+        public static final int titleMargin=0x7f01013a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2251,7 +2268,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginBottom=0x7f01013c;
+        public static final int titleMarginBottom=0x7f01013e;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2261,7 +2278,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginEnd=0x7f01013a;
+        public static final int titleMarginEnd=0x7f01013c;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2271,7 +2288,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginStart=0x7f010139;
+        public static final int titleMarginStart=0x7f01013b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2281,7 +2298,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMarginTop=0x7f01013b;
+        public static final int titleMarginTop=0x7f01013d;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -2291,11 +2308,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleMargins=0x7f01013d;
+        public static final int titleMargins=0x7f01013f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int titleTextAppearance=0x7f010136;
+        public static final int titleTextAppearance=0x7f010138;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2304,7 +2321,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int titleTextColor=0x7f010145;
+        public static final int titleTextColor=0x7f010147;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2363,7 +2380,7 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int track=0x7f01012d;
+        public static final int track=0x7f01012f;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -2372,7 +2389,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int trackTint=0x7f01012e;
+        public static final int trackTint=0x7f010130;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -2387,7 +2404,7 @@ containing a value of this type.
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
          */
-        public static final int trackTintMode=0x7f01012f;
+        public static final int trackTintMode=0x7f010131;
         /** <p>Must be a floating point value, such as "<code>1.2</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2851,158 +2868,162 @@ containing a value of this type.
         public static final int white_radius=0x7f020074;
     }
     public static final class id {
-        public static final int action0=0x7f0c0083;
-        public static final int action_bar=0x7f0c005b;
+        public static final int action0=0x7f0c0084;
+        public static final int action_bar=0x7f0c005c;
         public static final int action_bar_activity_content=0x7f0c0000;
-        public static final int action_bar_container=0x7f0c005a;
-        public static final int action_bar_root=0x7f0c0056;
+        public static final int action_bar_container=0x7f0c005b;
+        public static final int action_bar_root=0x7f0c0057;
         public static final int action_bar_spinner=0x7f0c0001;
-        public static final int action_bar_subtitle=0x7f0c0039;
-        public static final int action_bar_title=0x7f0c0038;
-        public static final int action_container=0x7f0c0080;
-        public static final int action_context_bar=0x7f0c005c;
-        public static final int action_divider=0x7f0c0087;
-        public static final int action_image=0x7f0c0081;
+        public static final int action_bar_subtitle=0x7f0c003a;
+        public static final int action_bar_title=0x7f0c0039;
+        public static final int action_container=0x7f0c0081;
+        public static final int action_context_bar=0x7f0c005d;
+        public static final int action_divider=0x7f0c0088;
+        public static final int action_image=0x7f0c0082;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
-        public static final int action_mode_bar=0x7f0c0058;
-        public static final int action_mode_bar_stub=0x7f0c0057;
-        public static final int action_mode_close_button=0x7f0c003a;
-        public static final int action_text=0x7f0c0082;
-        public static final int actions=0x7f0c0090;
-        public static final int activity_chooser_view_content=0x7f0c003b;
+        public static final int action_mode_bar=0x7f0c0059;
+        public static final int action_mode_bar_stub=0x7f0c0058;
+        public static final int action_mode_close_button=0x7f0c003b;
+        public static final int action_text=0x7f0c0083;
+        public static final int actions=0x7f0c0091;
+        public static final int activity_chooser_view_content=0x7f0c003c;
         public static final int add=0x7f0c001d;
-        public static final int alertTitle=0x7f0c004f;
+        public static final int alertTitle=0x7f0c0050;
         public static final int all=0x7f0c0010;
-        public static final int always=0x7f0c0031;
-        public static final int banner=0x7f0c0074;
-        public static final int bannerTitle=0x7f0c006f;
+        public static final int always=0x7f0c0032;
+        public static final int banner=0x7f0c0075;
+        public static final int bannerTitle=0x7f0c0070;
         public static final int basic=0x7f0c0011;
-        public static final int beginning=0x7f0c002e;
-        public static final int bottom=0x7f0c0036;
-        public static final int btb=0x7f0c006a;
-        public static final int buttonPanel=0x7f0c0042;
-        public static final int cancel_action=0x7f0c0084;
+        public static final int beginning=0x7f0c002f;
+        public static final int bottom=0x7f0c0037;
+        public static final int btb=0x7f0c006b;
+        public static final int buttonPanel=0x7f0c0043;
+        public static final int cancel_action=0x7f0c0085;
         public static final int center=0x7f0c0026;
         public static final int centerCrop=0x7f0c0027;
         public static final int centerInside=0x7f0c0028;
         public static final int center_crop=0x7f0c0024;
         public static final int chains=0x7f0c0012;
-        public static final int checkbox=0x7f0c0052;
-        public static final int chronometer=0x7f0c008c;
-        public static final int collapseActionView=0x7f0c0032;
-        public static final int contentPanel=0x7f0c0045;
-        public static final int custom=0x7f0c004c;
-        public static final int customPanel=0x7f0c004b;
-        public static final int decor_content_parent=0x7f0c0059;
-        public static final int default_activity_button=0x7f0c003e;
+        public static final int checkbox=0x7f0c0053;
+        public static final int chronometer=0x7f0c008d;
+        public static final int collapseActionView=0x7f0c0033;
+        public static final int contentPanel=0x7f0c0046;
+        public static final int custom=0x7f0c004d;
+        public static final int customPanel=0x7f0c004c;
+        public static final int decor_content_parent=0x7f0c005a;
+        public static final int default_activity_button=0x7f0c003f;
         public static final int disableHome=0x7f0c0017;
-        public static final int edit_query=0x7f0c005d;
-        public static final int end=0x7f0c002f;
-        public static final int end_padder=0x7f0c0096;
-        public static final int et_find=0x7f0c0075;
-        public static final int expand_activities_button=0x7f0c003c;
-        public static final int expanded_menu=0x7f0c0051;
-        public static final int faster=0x7f0c007e;
-        public static final int fitCenter=0x7f0c0029;
-        public static final int fitEnd=0x7f0c002a;
-        public static final int fitStart=0x7f0c002b;
-        public static final int fitXY=0x7f0c002c;
+        public static final int edit_query=0x7f0c005e;
+        public static final int end=0x7f0c0030;
+        public static final int end_padder=0x7f0c0097;
+        public static final int et_find=0x7f0c0076;
+        public static final int expand_activities_button=0x7f0c003d;
+        public static final int expanded_menu=0x7f0c0052;
+        public static final int faster=0x7f0c007f;
+        public static final int fitBottomStart=0x7f0c0029;
+        public static final int fitCenter=0x7f0c002a;
+        public static final int fitEnd=0x7f0c002b;
+        public static final int fitStart=0x7f0c002c;
+        public static final int fitXY=0x7f0c002d;
         public static final int fit_xy=0x7f0c0025;
-        public static final int focusCrop=0x7f0c002d;
+        public static final int focusCrop=0x7f0c002e;
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c0018;
-        public static final int icon=0x7f0c0040;
-        public static final int icon_group=0x7f0c0091;
-        public static final int ifRoom=0x7f0c0033;
-        public static final int ijkLib__relativeLayout=0x7f0c0079;
-        public static final int image=0x7f0c003d;
-        public static final int indicator=0x7f0c006c;
-        public static final int indicatorInside=0x7f0c0071;
-        public static final int info=0x7f0c008d;
+        public static final int icon=0x7f0c0041;
+        public static final int icon_group=0x7f0c0092;
+        public static final int ifRoom=0x7f0c0034;
+        public static final int ijkLib__relativeLayout=0x7f0c007a;
+        public static final int image=0x7f0c003e;
+        public static final int indicator=0x7f0c006d;
+        public static final int indicatorInside=0x7f0c0072;
+        public static final int info=0x7f0c008e;
         public static final int item_touch_helper_previous_elevation=0x7f0c0005;
-        public static final int iv_background=0x7f0c0077;
-        public static final int line1=0x7f0c0092;
-        public static final int line3=0x7f0c0094;
+        public static final int iv_background=0x7f0c0078;
+        public static final int line1=0x7f0c0093;
+        public static final int line3=0x7f0c0095;
         public static final int listMode=0x7f0c0014;
-        public static final int list_item=0x7f0c003f;
-        public static final int media_actions=0x7f0c0086;
-        public static final int mediacontroller_play_pause=0x7f0c007a;
-        public static final int mediacontroller_seekbar=0x7f0c007c;
-        public static final int mediacontroller_time_current=0x7f0c007b;
-        public static final int mediacontroller_time_total=0x7f0c007d;
-        public static final int middle=0x7f0c0030;
+        public static final int list_item=0x7f0c0040;
+        public static final int ll=0x7f0c0098;
+        public static final int media_actions=0x7f0c0087;
+        public static final int mediacontroller_play_pause=0x7f0c007b;
+        public static final int mediacontroller_seekbar=0x7f0c007d;
+        public static final int mediacontroller_time_current=0x7f0c007c;
+        public static final int mediacontroller_time_total=0x7f0c007e;
+        public static final int middle=0x7f0c0031;
         public static final int multiply=0x7f0c001e;
-        public static final int never=0x7f0c0034;
+        public static final int never=0x7f0c0035;
         public static final int none=0x7f0c0013;
         public static final int normal=0x7f0c0015;
-        public static final int notification_background=0x7f0c008e;
-        public static final int notification_main_column=0x7f0c0089;
-        public static final int notification_main_column_container=0x7f0c0088;
-        public static final int numIndicator=0x7f0c006d;
-        public static final int numIndicatorInside=0x7f0c0070;
+        public static final int notification_background=0x7f0c008f;
+        public static final int notification_main_column=0x7f0c008a;
+        public static final int notification_main_column_container=0x7f0c0089;
+        public static final int numIndicator=0x7f0c006e;
+        public static final int numIndicatorInside=0x7f0c0071;
         public static final int packed=0x7f0c000e;
         public static final int parent=0x7f0c000b;
-        public static final int parentPanel=0x7f0c0044;
+        public static final int parentPanel=0x7f0c0045;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
-        public static final int radio=0x7f0c0054;
-        public static final int realtabcontent=0x7f0c0072;
-        public static final int recyc_special=0x7f0c0097;
+        public static final int radio=0x7f0c0055;
+        public static final int realtabcontent=0x7f0c0073;
+        public static final int recyc_special=0x7f0c009b;
         public static final int render_view=0x7f0c0008;
-        public static final int right_icon=0x7f0c008f;
-        public static final int right_side=0x7f0c008a;
-        public static final int rll_options=0x7f0c0078;
-        public static final int rv_list=0x7f0c0076;
+        public static final int right_icon=0x7f0c0090;
+        public static final int right_side=0x7f0c008b;
+        public static final int rll_options=0x7f0c0079;
+        public static final int rv_list=0x7f0c0077;
         public static final int screen=0x7f0c001f;
-        public static final int scrollIndicatorDown=0x7f0c004a;
-        public static final int scrollIndicatorUp=0x7f0c0046;
-        public static final int scrollView=0x7f0c0047;
-        public static final int search_badge=0x7f0c005f;
-        public static final int search_bar=0x7f0c005e;
-        public static final int search_button=0x7f0c0060;
-        public static final int search_close_btn=0x7f0c0065;
-        public static final int search_edit_frame=0x7f0c0061;
-        public static final int search_go_btn=0x7f0c0067;
-        public static final int search_mag_icon=0x7f0c0062;
-        public static final int search_plate=0x7f0c0063;
-        public static final int search_src_text=0x7f0c0064;
-        public static final int search_voice_btn=0x7f0c0068;
-        public static final int select_dialog_listview=0x7f0c0069;
-        public static final int shortcut=0x7f0c0053;
+        public static final int scrollIndicatorDown=0x7f0c004b;
+        public static final int scrollIndicatorUp=0x7f0c0047;
+        public static final int scrollView=0x7f0c0048;
+        public static final int sdv_pic=0x7f0c0099;
+        public static final int search_badge=0x7f0c0060;
+        public static final int search_bar=0x7f0c005f;
+        public static final int search_button=0x7f0c0061;
+        public static final int search_close_btn=0x7f0c0066;
+        public static final int search_edit_frame=0x7f0c0062;
+        public static final int search_go_btn=0x7f0c0068;
+        public static final int search_mag_icon=0x7f0c0063;
+        public static final int search_plate=0x7f0c0064;
+        public static final int search_src_text=0x7f0c0065;
+        public static final int search_voice_btn=0x7f0c0069;
+        public static final int select_dialog_listview=0x7f0c006a;
+        public static final int shortcut=0x7f0c0054;
         public static final int showCustom=0x7f0c0019;
         public static final int showHome=0x7f0c001a;
         public static final int showTitle=0x7f0c001b;
-        public static final int slower=0x7f0c007f;
-        public static final int spacer=0x7f0c0043;
-        public static final int split=0x7f0c0073;
+        public static final int slower=0x7f0c0080;
+        public static final int spacer=0x7f0c0044;
+        public static final int split=0x7f0c0074;
         public static final int split_action_bar=0x7f0c0009;
         public static final int spread=0x7f0c000c;
         public static final int spread_inside=0x7f0c000f;
         public static final int src_atop=0x7f0c0020;
         public static final int src_in=0x7f0c0021;
         public static final int src_over=0x7f0c0022;
-        public static final int status_bar_latest_event_content=0x7f0c0085;
-        public static final int submenuarrow=0x7f0c0055;
-        public static final int submit_area=0x7f0c0066;
+        public static final int status_bar_latest_event_content=0x7f0c0086;
+        public static final int submenuarrow=0x7f0c0056;
+        public static final int submit_area=0x7f0c0067;
         public static final int tabMode=0x7f0c0016;
-        public static final int tab_item_iv=0x7f0c0098;
-        public static final int tab_item_tv=0x7f0c0099;
-        public static final int text=0x7f0c0095;
-        public static final int text2=0x7f0c0093;
-        public static final int textSpacerNoButtons=0x7f0c0049;
-        public static final int textSpacerNoTitle=0x7f0c0048;
-        public static final int time=0x7f0c008b;
-        public static final int title=0x7f0c0041;
-        public static final int titleDividerNoCustom=0x7f0c0050;
-        public static final int titleView=0x7f0c006e;
-        public static final int title_template=0x7f0c004e;
-        public static final int top=0x7f0c0037;
-        public static final int topPanel=0x7f0c004d;
+        public static final int tab_item_iv=0x7f0c009c;
+        public static final int tab_item_tv=0x7f0c009d;
+        public static final int text=0x7f0c0096;
+        public static final int text2=0x7f0c0094;
+        public static final int textSpacerNoButtons=0x7f0c004a;
+        public static final int textSpacerNoTitle=0x7f0c0049;
+        public static final int time=0x7f0c008c;
+        public static final int title=0x7f0c0042;
+        public static final int titleDividerNoCustom=0x7f0c0051;
+        public static final int titleView=0x7f0c006f;
+        public static final int title_template=0x7f0c004f;
+        public static final int top=0x7f0c0038;
+        public static final int topPanel=0x7f0c004e;
+        public static final int tv_title=0x7f0c009a;
         public static final int up=0x7f0c000a;
         public static final int useLogo=0x7f0c001c;
-        public static final int viewpager=0x7f0c006b;
-        public static final int withText=0x7f0c0035;
+        public static final int viewpager=0x7f0c006c;
+        public static final int withText=0x7f0c0036;
         public static final int wrap=0x7f0c000d;
         public static final int wrap_content=0x7f0c0023;
     }
@@ -3041,33 +3062,35 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040019;
         public static final int abc_select_dialog_material=0x7f04001a;
         public static final int activity_main=0x7f04001b;
-        public static final int banner=0x7f04001c;
-        public static final int bottom_tab_bar=0x7f04001d;
-        public static final int choiceness_fragment=0x7f04001e;
-        public static final int find_fragment=0x7f04001f;
-        public static final int ijk_media_control=0x7f040020;
-        public static final int mine_fragment=0x7f040021;
-        public static final int notification_action=0x7f040022;
-        public static final int notification_action_tombstone=0x7f040023;
-        public static final int notification_media_action=0x7f040024;
-        public static final int notification_media_cancel_action=0x7f040025;
-        public static final int notification_template_big_media=0x7f040026;
-        public static final int notification_template_big_media_custom=0x7f040027;
-        public static final int notification_template_big_media_narrow=0x7f040028;
-        public static final int notification_template_big_media_narrow_custom=0x7f040029;
-        public static final int notification_template_custom_big=0x7f04002a;
-        public static final int notification_template_icon_group=0x7f04002b;
-        public static final int notification_template_lines_media=0x7f04002c;
-        public static final int notification_template_media=0x7f04002d;
-        public static final int notification_template_media_custom=0x7f04002e;
-        public static final int notification_template_part_chronometer=0x7f04002f;
-        public static final int notification_template_part_time=0x7f040030;
-        public static final int select_dialog_item_material=0x7f040031;
-        public static final int select_dialog_multichoice_material=0x7f040032;
-        public static final int select_dialog_singlechoice_material=0x7f040033;
-        public static final int special_fragment=0x7f040034;
-        public static final int support_simple_spinner_dropdown_item=0x7f040035;
-        public static final int tab_item=0x7f040036;
+        public static final int activity_xiang_qing=0x7f04001c;
+        public static final int banner=0x7f04001d;
+        public static final int bottom_tab_bar=0x7f04001e;
+        public static final int choiceness_fragment=0x7f04001f;
+        public static final int find_fragment=0x7f040020;
+        public static final int ijk_media_control=0x7f040021;
+        public static final int mine_fragment=0x7f040022;
+        public static final int notification_action=0x7f040023;
+        public static final int notification_action_tombstone=0x7f040024;
+        public static final int notification_media_action=0x7f040025;
+        public static final int notification_media_cancel_action=0x7f040026;
+        public static final int notification_template_big_media=0x7f040027;
+        public static final int notification_template_big_media_custom=0x7f040028;
+        public static final int notification_template_big_media_narrow=0x7f040029;
+        public static final int notification_template_big_media_narrow_custom=0x7f04002a;
+        public static final int notification_template_custom_big=0x7f04002b;
+        public static final int notification_template_icon_group=0x7f04002c;
+        public static final int notification_template_lines_media=0x7f04002d;
+        public static final int notification_template_media=0x7f04002e;
+        public static final int notification_template_media_custom=0x7f04002f;
+        public static final int notification_template_part_chronometer=0x7f040030;
+        public static final int notification_template_part_time=0x7f040031;
+        public static final int rvlist_item=0x7f040032;
+        public static final int select_dialog_item_material=0x7f040033;
+        public static final int select_dialog_multichoice_material=0x7f040034;
+        public static final int select_dialog_singlechoice_material=0x7f040035;
+        public static final int special_fragment=0x7f040036;
+        public static final int support_simple_spinner_dropdown_item=0x7f040037;
+        public static final int tab_item=0x7f040038;
     }
     public static final class mipmap {
         public static final int bg_colorful=0x7f030000;
@@ -8608,65 +8631,65 @@ containing a value of this type.
           @attr name fourteam.cck.com.fourteam:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
-        /** Attributes that can be used with a GenericDraweeView.
+        /** Attributes that can be used with a GenericDraweeHierarchy.
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeView_actualImageScaleType fourteam.cck.com.fourteam:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_backgroundImage fourteam.cck.com.fourteam:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_fadeDuration fourteam.cck.com.fourteam:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImage fourteam.cck.com.fourteam:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_failureImageScaleType fourteam.cck.com.fourteam:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_overlayImage fourteam.cck.com.fourteam:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImage fourteam.cck.com.fourteam:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_placeholderImageScaleType fourteam.cck.com.fourteam:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_pressedStateOverlayImage fourteam.cck.com.fourteam:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarAutoRotateInterval fourteam.cck.com.fourteam:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImage fourteam.cck.com.fourteam:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_progressBarImageScaleType fourteam.cck.com.fourteam:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImage fourteam.cck.com.fourteam:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_retryImageScaleType fourteam.cck.com.fourteam:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundAsCircle fourteam.cck.com.fourteam:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomLeft fourteam.cck.com.fourteam:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundBottomRight fourteam.cck.com.fourteam:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopLeft fourteam.cck.com.fourteam:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundTopRight fourteam.cck.com.fourteam:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundWithOverlayColor fourteam.cck.com.fourteam:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundedCornerRadius fourteam.cck.com.fourteam:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderColor fourteam.cck.com.fourteam:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderPadding fourteam.cck.com.fourteam:roundingBorderPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_roundingBorderWidth fourteam.cck.com.fourteam:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeView_viewAspectRatio fourteam.cck.com.fourteam:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType fourteam.cck.com.fourteam:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage fourteam.cck.com.fourteam:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration fourteam.cck.com.fourteam:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImage fourteam.cck.com.fourteam:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType fourteam.cck.com.fourteam:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage fourteam.cck.com.fourteam:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage fourteam.cck.com.fourteam:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType fourteam.cck.com.fourteam:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage fourteam.cck.com.fourteam:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval fourteam.cck.com.fourteam:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage fourteam.cck.com.fourteam:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType fourteam.cck.com.fourteam:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImage fourteam.cck.com.fourteam:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType fourteam.cck.com.fourteam:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle fourteam.cck.com.fourteam:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft fourteam.cck.com.fourteam:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight fourteam.cck.com.fourteam:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft fourteam.cck.com.fourteam:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight fourteam.cck.com.fourteam:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor fourteam.cck.com.fourteam:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius fourteam.cck.com.fourteam:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor fourteam.cck.com.fourteam:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding fourteam.cck.com.fourteam:roundingBorderPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth fourteam.cck.com.fourteam:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio fourteam.cck.com.fourteam:viewAspectRatio}</code></td><td></td></tr>
            </table>
-           @see #GenericDraweeView_actualImageScaleType
-           @see #GenericDraweeView_backgroundImage
-           @see #GenericDraweeView_fadeDuration
-           @see #GenericDraweeView_failureImage
-           @see #GenericDraweeView_failureImageScaleType
-           @see #GenericDraweeView_overlayImage
-           @see #GenericDraweeView_placeholderImage
-           @see #GenericDraweeView_placeholderImageScaleType
-           @see #GenericDraweeView_pressedStateOverlayImage
-           @see #GenericDraweeView_progressBarAutoRotateInterval
-           @see #GenericDraweeView_progressBarImage
-           @see #GenericDraweeView_progressBarImageScaleType
-           @see #GenericDraweeView_retryImage
-           @see #GenericDraweeView_retryImageScaleType
-           @see #GenericDraweeView_roundAsCircle
-           @see #GenericDraweeView_roundBottomLeft
-           @see #GenericDraweeView_roundBottomRight
-           @see #GenericDraweeView_roundTopLeft
-           @see #GenericDraweeView_roundTopRight
-           @see #GenericDraweeView_roundWithOverlayColor
-           @see #GenericDraweeView_roundedCornerRadius
-           @see #GenericDraweeView_roundingBorderColor
-           @see #GenericDraweeView_roundingBorderPadding
-           @see #GenericDraweeView_roundingBorderWidth
-           @see #GenericDraweeView_viewAspectRatio
+           @see #GenericDraweeHierarchy_actualImageScaleType
+           @see #GenericDraweeHierarchy_backgroundImage
+           @see #GenericDraweeHierarchy_fadeDuration
+           @see #GenericDraweeHierarchy_failureImage
+           @see #GenericDraweeHierarchy_failureImageScaleType
+           @see #GenericDraweeHierarchy_overlayImage
+           @see #GenericDraweeHierarchy_placeholderImage
+           @see #GenericDraweeHierarchy_placeholderImageScaleType
+           @see #GenericDraweeHierarchy_pressedStateOverlayImage
+           @see #GenericDraweeHierarchy_progressBarAutoRotateInterval
+           @see #GenericDraweeHierarchy_progressBarImage
+           @see #GenericDraweeHierarchy_progressBarImageScaleType
+           @see #GenericDraweeHierarchy_retryImage
+           @see #GenericDraweeHierarchy_retryImageScaleType
+           @see #GenericDraweeHierarchy_roundAsCircle
+           @see #GenericDraweeHierarchy_roundBottomLeft
+           @see #GenericDraweeHierarchy_roundBottomRight
+           @see #GenericDraweeHierarchy_roundTopLeft
+           @see #GenericDraweeHierarchy_roundTopRight
+           @see #GenericDraweeHierarchy_roundWithOverlayColor
+           @see #GenericDraweeHierarchy_roundedCornerRadius
+           @see #GenericDraweeHierarchy_roundingBorderColor
+           @see #GenericDraweeHierarchy_roundingBorderPadding
+           @see #GenericDraweeHierarchy_roundingBorderWidth
+           @see #GenericDraweeHierarchy_viewAspectRatio
          */
-        public static final int[] GenericDraweeView = {
+        public static final int[] GenericDraweeHierarchy = {
             0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0,
             0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4,
             0x7f0100f5, 0x7f0100f6, 0x7f0100f7, 0x7f0100f8,
@@ -8677,7 +8700,7 @@ containing a value of this type.
         };
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#actualImageScaleType}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -8695,23 +8718,24 @@ containing a value of this type.
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
           @attr name fourteam.cck.com.fourteam:actualImageScaleType
         */
-        public static final int GenericDraweeView_actualImageScaleType = 11;
+        public static final int GenericDraweeHierarchy_actualImageScaleType = 11;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#backgroundImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:backgroundImage
         */
-        public static final int GenericDraweeView_backgroundImage = 12;
+        public static final int GenericDraweeHierarchy_backgroundImage = 12;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#fadeDuration}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be an integer value, such as "<code>100</code>".
@@ -8722,20 +8746,20 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:fadeDuration
         */
-        public static final int GenericDraweeView_fadeDuration = 0;
+        public static final int GenericDraweeHierarchy_fadeDuration = 0;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#failureImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:failureImage
         */
-        public static final int GenericDraweeView_failureImage = 6;
+        public static final int GenericDraweeHierarchy_failureImage = 6;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#failureImageScaleType}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -8753,33 +8777,34 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
           @attr name fourteam.cck.com.fourteam:failureImageScaleType
         */
-        public static final int GenericDraweeView_failureImageScaleType = 7;
+        public static final int GenericDraweeHierarchy_failureImageScaleType = 7;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#overlayImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:overlayImage
         */
-        public static final int GenericDraweeView_overlayImage = 13;
+        public static final int GenericDraweeHierarchy_overlayImage = 13;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#placeholderImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:placeholderImage
         */
-        public static final int GenericDraweeView_placeholderImage = 2;
+        public static final int GenericDraweeHierarchy_placeholderImage = 2;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#placeholderImageScaleType}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -8797,23 +8822,24 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
           @attr name fourteam.cck.com.fourteam:placeholderImageScaleType
         */
-        public static final int GenericDraweeView_placeholderImageScaleType = 3;
+        public static final int GenericDraweeHierarchy_placeholderImageScaleType = 3;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#pressedStateOverlayImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:pressedStateOverlayImage
         */
-        public static final int GenericDraweeView_pressedStateOverlayImage = 14;
+        public static final int GenericDraweeHierarchy_pressedStateOverlayImage = 14;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarAutoRotateInterval}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be an integer value, such as "<code>100</code>".
@@ -8824,20 +8850,20 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:progressBarAutoRotateInterval
         */
-        public static final int GenericDraweeView_progressBarAutoRotateInterval = 10;
+        public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval = 10;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:progressBarImage
         */
-        public static final int GenericDraweeView_progressBarImage = 8;
+        public static final int GenericDraweeHierarchy_progressBarImage = 8;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarImageScaleType}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -8855,23 +8881,24 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
           @attr name fourteam.cck.com.fourteam:progressBarImageScaleType
         */
-        public static final int GenericDraweeView_progressBarImageScaleType = 9;
+        public static final int GenericDraweeHierarchy_progressBarImageScaleType = 9;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#retryImage}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name fourteam.cck.com.fourteam:retryImage
         */
-        public static final int GenericDraweeView_retryImage = 4;
+        public static final int GenericDraweeHierarchy_retryImage = 4;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#retryImageScaleType}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -8889,13 +8916,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
 </table>
           @attr name fourteam.cck.com.fourteam:retryImageScaleType
         */
-        public static final int GenericDraweeView_retryImageScaleType = 5;
+        public static final int GenericDraweeHierarchy_retryImageScaleType = 5;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundAsCircle}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -8906,10 +8934,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundAsCircle
         */
-        public static final int GenericDraweeView_roundAsCircle = 15;
+        public static final int GenericDraweeHierarchy_roundAsCircle = 15;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundBottomLeft}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -8920,10 +8948,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundBottomLeft
         */
-        public static final int GenericDraweeView_roundBottomLeft = 20;
+        public static final int GenericDraweeHierarchy_roundBottomLeft = 20;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundBottomRight}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -8934,10 +8962,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundBottomRight
         */
-        public static final int GenericDraweeView_roundBottomRight = 19;
+        public static final int GenericDraweeHierarchy_roundBottomRight = 19;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundTopLeft}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -8948,10 +8976,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundTopLeft
         */
-        public static final int GenericDraweeView_roundTopLeft = 17;
+        public static final int GenericDraweeHierarchy_roundTopLeft = 17;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundTopRight}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
@@ -8962,10 +8990,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundTopRight
         */
-        public static final int GenericDraweeView_roundTopRight = 18;
+        public static final int GenericDraweeHierarchy_roundTopRight = 18;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundWithOverlayColor}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
@@ -8977,10 +9005,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundWithOverlayColor
         */
-        public static final int GenericDraweeView_roundWithOverlayColor = 21;
+        public static final int GenericDraweeHierarchy_roundWithOverlayColor = 21;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundedCornerRadius}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
@@ -8993,10 +9021,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundedCornerRadius
         */
-        public static final int GenericDraweeView_roundedCornerRadius = 16;
+        public static final int GenericDraweeHierarchy_roundedCornerRadius = 16;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderColor}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
@@ -9008,10 +9036,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundingBorderColor
         */
-        public static final int GenericDraweeView_roundingBorderColor = 23;
+        public static final int GenericDraweeHierarchy_roundingBorderColor = 23;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderPadding}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
@@ -9024,10 +9052,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundingBorderPadding
         */
-        public static final int GenericDraweeView_roundingBorderPadding = 24;
+        public static final int GenericDraweeHierarchy_roundingBorderPadding = 24;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderWidth}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
@@ -9040,10 +9068,10 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:roundingBorderWidth
         */
-        public static final int GenericDraweeView_roundingBorderWidth = 22;
+        public static final int GenericDraweeHierarchy_roundingBorderWidth = 22;
         /**
           <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#viewAspectRatio}
-          attribute's value can be found in the {@link #GenericDraweeView} array.
+          attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a floating point value, such as "<code>1.2</code>".
@@ -9054,7 +9082,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name fourteam.cck.com.fourteam:viewAspectRatio
         */
-        public static final int GenericDraweeView_viewAspectRatio = 1;
+        public static final int GenericDraweeHierarchy_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearConstraintLayout.
            <p>Includes the following attributes:</p>
            <table>
@@ -10127,6 +10155,486 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           @attr name fourteam.cck.com.fourteam:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
+        /** Attributes that can be used with a SimpleDraweeView.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageResource fourteam.cck.com.fourteam:actualImageResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageScaleType fourteam.cck.com.fourteam:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageUri fourteam.cck.com.fourteam:actualImageUri}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_backgroundImage fourteam.cck.com.fourteam:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_fadeDuration fourteam.cck.com.fourteam:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_failureImage fourteam.cck.com.fourteam:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_failureImageScaleType fourteam.cck.com.fourteam:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_overlayImage fourteam.cck.com.fourteam:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_placeholderImage fourteam.cck.com.fourteam:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_placeholderImageScaleType fourteam.cck.com.fourteam:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_pressedStateOverlayImage fourteam.cck.com.fourteam:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_progressBarAutoRotateInterval fourteam.cck.com.fourteam:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_progressBarImage fourteam.cck.com.fourteam:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_progressBarImageScaleType fourteam.cck.com.fourteam:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_retryImage fourteam.cck.com.fourteam:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_retryImageScaleType fourteam.cck.com.fourteam:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundAsCircle fourteam.cck.com.fourteam:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundBottomLeft fourteam.cck.com.fourteam:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundBottomRight fourteam.cck.com.fourteam:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundTopLeft fourteam.cck.com.fourteam:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundTopRight fourteam.cck.com.fourteam:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundWithOverlayColor fourteam.cck.com.fourteam:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundedCornerRadius fourteam.cck.com.fourteam:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundingBorderColor fourteam.cck.com.fourteam:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundingBorderPadding fourteam.cck.com.fourteam:roundingBorderPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_roundingBorderWidth fourteam.cck.com.fourteam:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_viewAspectRatio fourteam.cck.com.fourteam:viewAspectRatio}</code></td><td></td></tr>
+           </table>
+           @see #SimpleDraweeView_actualImageResource
+           @see #SimpleDraweeView_actualImageScaleType
+           @see #SimpleDraweeView_actualImageUri
+           @see #SimpleDraweeView_backgroundImage
+           @see #SimpleDraweeView_fadeDuration
+           @see #SimpleDraweeView_failureImage
+           @see #SimpleDraweeView_failureImageScaleType
+           @see #SimpleDraweeView_overlayImage
+           @see #SimpleDraweeView_placeholderImage
+           @see #SimpleDraweeView_placeholderImageScaleType
+           @see #SimpleDraweeView_pressedStateOverlayImage
+           @see #SimpleDraweeView_progressBarAutoRotateInterval
+           @see #SimpleDraweeView_progressBarImage
+           @see #SimpleDraweeView_progressBarImageScaleType
+           @see #SimpleDraweeView_retryImage
+           @see #SimpleDraweeView_retryImageScaleType
+           @see #SimpleDraweeView_roundAsCircle
+           @see #SimpleDraweeView_roundBottomLeft
+           @see #SimpleDraweeView_roundBottomRight
+           @see #SimpleDraweeView_roundTopLeft
+           @see #SimpleDraweeView_roundTopRight
+           @see #SimpleDraweeView_roundWithOverlayColor
+           @see #SimpleDraweeView_roundedCornerRadius
+           @see #SimpleDraweeView_roundingBorderColor
+           @see #SimpleDraweeView_roundingBorderPadding
+           @see #SimpleDraweeView_roundingBorderWidth
+           @see #SimpleDraweeView_viewAspectRatio
+         */
+        public static final int[] SimpleDraweeView = {
+            0x7f0100ed, 0x7f0100ee, 0x7f0100ef, 0x7f0100f0,
+            0x7f0100f1, 0x7f0100f2, 0x7f0100f3, 0x7f0100f4,
+            0x7f0100f5, 0x7f0100f6, 0x7f0100f7, 0x7f0100f8,
+            0x7f0100f9, 0x7f0100fa, 0x7f0100fb, 0x7f0100fc,
+            0x7f0100fd, 0x7f0100fe, 0x7f0100ff, 0x7f010100,
+            0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104,
+            0x7f010105, 0x7f01012b, 0x7f01012c
+        };
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#actualImageResource}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:actualImageResource
+        */
+        public static final int SimpleDraweeView_actualImageResource = 26;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#actualImageScaleType}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>-1</td><td></td></tr>
+<tr><td><code>fitXY</code></td><td>0</td><td></td></tr>
+<tr><td><code>fitStart</code></td><td>1</td><td></td></tr>
+<tr><td><code>fitCenter</code></td><td>2</td><td></td></tr>
+<tr><td><code>fitEnd</code></td><td>3</td><td></td></tr>
+<tr><td><code>center</code></td><td>4</td><td></td></tr>
+<tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
+<tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
+<tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
+</table>
+          @attr name fourteam.cck.com.fourteam:actualImageScaleType
+        */
+        public static final int SimpleDraweeView_actualImageScaleType = 11;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#actualImageUri}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:actualImageUri
+        */
+        public static final int SimpleDraweeView_actualImageUri = 25;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#backgroundImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:backgroundImage
+        */
+        public static final int SimpleDraweeView_backgroundImage = 12;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#fadeDuration}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:fadeDuration
+        */
+        public static final int SimpleDraweeView_fadeDuration = 0;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#failureImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:failureImage
+        */
+        public static final int SimpleDraweeView_failureImage = 6;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#failureImageScaleType}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>-1</td><td></td></tr>
+<tr><td><code>fitXY</code></td><td>0</td><td></td></tr>
+<tr><td><code>fitStart</code></td><td>1</td><td></td></tr>
+<tr><td><code>fitCenter</code></td><td>2</td><td></td></tr>
+<tr><td><code>fitEnd</code></td><td>3</td><td></td></tr>
+<tr><td><code>center</code></td><td>4</td><td></td></tr>
+<tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
+<tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
+<tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
+</table>
+          @attr name fourteam.cck.com.fourteam:failureImageScaleType
+        */
+        public static final int SimpleDraweeView_failureImageScaleType = 7;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#overlayImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:overlayImage
+        */
+        public static final int SimpleDraweeView_overlayImage = 13;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#placeholderImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:placeholderImage
+        */
+        public static final int SimpleDraweeView_placeholderImage = 2;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#placeholderImageScaleType}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>-1</td><td></td></tr>
+<tr><td><code>fitXY</code></td><td>0</td><td></td></tr>
+<tr><td><code>fitStart</code></td><td>1</td><td></td></tr>
+<tr><td><code>fitCenter</code></td><td>2</td><td></td></tr>
+<tr><td><code>fitEnd</code></td><td>3</td><td></td></tr>
+<tr><td><code>center</code></td><td>4</td><td></td></tr>
+<tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
+<tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
+<tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
+</table>
+          @attr name fourteam.cck.com.fourteam:placeholderImageScaleType
+        */
+        public static final int SimpleDraweeView_placeholderImageScaleType = 3;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#pressedStateOverlayImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:pressedStateOverlayImage
+        */
+        public static final int SimpleDraweeView_pressedStateOverlayImage = 14;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarAutoRotateInterval}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be an integer value, such as "<code>100</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:progressBarAutoRotateInterval
+        */
+        public static final int SimpleDraweeView_progressBarAutoRotateInterval = 10;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:progressBarImage
+        */
+        public static final int SimpleDraweeView_progressBarImage = 8;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#progressBarImageScaleType}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>-1</td><td></td></tr>
+<tr><td><code>fitXY</code></td><td>0</td><td></td></tr>
+<tr><td><code>fitStart</code></td><td>1</td><td></td></tr>
+<tr><td><code>fitCenter</code></td><td>2</td><td></td></tr>
+<tr><td><code>fitEnd</code></td><td>3</td><td></td></tr>
+<tr><td><code>center</code></td><td>4</td><td></td></tr>
+<tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
+<tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
+<tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
+</table>
+          @attr name fourteam.cck.com.fourteam:progressBarImageScaleType
+        */
+        public static final int SimpleDraweeView_progressBarImageScaleType = 9;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#retryImage}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+          @attr name fourteam.cck.com.fourteam:retryImage
+        */
+        public static final int SimpleDraweeView_retryImage = 4;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#retryImageScaleType}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be one of the following constant values.</p>
+<table>
+<colgroup align="left" />
+<colgroup align="left" />
+<colgroup align="left" />
+<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+<tr><td><code>none</code></td><td>-1</td><td></td></tr>
+<tr><td><code>fitXY</code></td><td>0</td><td></td></tr>
+<tr><td><code>fitStart</code></td><td>1</td><td></td></tr>
+<tr><td><code>fitCenter</code></td><td>2</td><td></td></tr>
+<tr><td><code>fitEnd</code></td><td>3</td><td></td></tr>
+<tr><td><code>center</code></td><td>4</td><td></td></tr>
+<tr><td><code>centerInside</code></td><td>5</td><td></td></tr>
+<tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
+<tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
+<tr><td><code>fitBottomStart</code></td><td>8</td><td></td></tr>
+</table>
+          @attr name fourteam.cck.com.fourteam:retryImageScaleType
+        */
+        public static final int SimpleDraweeView_retryImageScaleType = 5;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundAsCircle}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundAsCircle
+        */
+        public static final int SimpleDraweeView_roundAsCircle = 15;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundBottomLeft}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundBottomLeft
+        */
+        public static final int SimpleDraweeView_roundBottomLeft = 20;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundBottomRight}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundBottomRight
+        */
+        public static final int SimpleDraweeView_roundBottomRight = 19;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundTopLeft}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundTopLeft
+        */
+        public static final int SimpleDraweeView_roundTopLeft = 17;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundTopRight}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundTopRight
+        */
+        public static final int SimpleDraweeView_roundTopRight = 18;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundWithOverlayColor}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundWithOverlayColor
+        */
+        public static final int SimpleDraweeView_roundWithOverlayColor = 21;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundedCornerRadius}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundedCornerRadius
+        */
+        public static final int SimpleDraweeView_roundedCornerRadius = 16;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderColor}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundingBorderColor
+        */
+        public static final int SimpleDraweeView_roundingBorderColor = 23;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderPadding}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundingBorderPadding
+        */
+        public static final int SimpleDraweeView_roundingBorderPadding = 24;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#roundingBorderWidth}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+in (inches), mm (millimeters).
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:roundingBorderWidth
+        */
+        public static final int SimpleDraweeView_roundingBorderWidth = 22;
+        /**
+          <p>This symbol is the offset where the {@link fourteam.cck.com.fourteam.R.attr#viewAspectRatio}
+          attribute's value can be found in the {@link #SimpleDraweeView} array.
+
+
+          <p>Must be a floating point value, such as "<code>1.2</code>".
+<p>This may also be a reference to a resource (in the form
+"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+theme attribute (in the form
+"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+containing a value of this type.
+          @attr name fourteam.cck.com.fourteam:viewAspectRatio
+        */
+        public static final int SimpleDraweeView_viewAspectRatio = 1;
         /** Attributes that can be used with a Spinner.
            <p>Includes the following attributes:</p>
            <table>
@@ -10220,10 +10728,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #SwitchCompat_trackTintMode
          */
         public static final int[] SwitchCompat = {
-            0x01010124, 0x01010125, 0x01010142, 0x7f01012b,
-            0x7f01012c, 0x7f01012d, 0x7f01012e, 0x7f01012f,
-            0x7f010130, 0x7f010131, 0x7f010132, 0x7f010133,
-            0x7f010134, 0x7f010135
+            0x01010124, 0x01010125, 0x01010142, 0x7f01012d,
+            0x7f01012e, 0x7f01012f, 0x7f010130, 0x7f010131,
+            0x7f010132, 0x7f010133, 0x7f010134, 0x7f010135,
+            0x7f010136, 0x7f010137
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#textOff}
@@ -10579,11 +11087,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x010100af, 0x01010140, 0x7f01002f, 0x7f010032,
             0x7f010036, 0x7f010042, 0x7f010043, 0x7f010044,
             0x7f010045, 0x7f010046, 0x7f010047, 0x7f010049,
-            0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139,
-            0x7f01013a, 0x7f01013b, 0x7f01013c, 0x7f01013d,
-            0x7f01013e, 0x7f01013f, 0x7f010140, 0x7f010141,
-            0x7f010142, 0x7f010143, 0x7f010144, 0x7f010145,
-            0x7f010146
+            0x7f010138, 0x7f010139, 0x7f01013a, 0x7f01013b,
+            0x7f01013c, 0x7f01013d, 0x7f01013e, 0x7f01013f,
+            0x7f010140, 0x7f010141, 0x7f010142, 0x7f010143,
+            0x7f010144, 0x7f010145, 0x7f010146, 0x7f010147,
+            0x7f010148
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -11001,8 +11509,8 @@ containing a value of this type.
            @see #View_theme
          */
         public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f010147, 0x7f010148,
-            0x7f010149
+            0x01010000, 0x010100da, 0x7f010149, 0x7f01014a,
+            0x7f01014b
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -11073,7 +11581,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            @see #ViewBackgroundHelper_backgroundTintMode
          */
         public static final int[] ViewBackgroundHelper = {
-            0x010100d4, 0x7f01014a, 0x7f01014b
+            0x010100d4, 0x7f01014c, 0x7f01014d
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#background}
