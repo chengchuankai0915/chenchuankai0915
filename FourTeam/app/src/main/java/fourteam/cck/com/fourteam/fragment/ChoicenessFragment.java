@@ -1,14 +1,17 @@
 package fourteam.cck.com.fourteam.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.youth.banner.Banner;
 
@@ -16,6 +19,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
+import fourteam.cck.com.fourteam.activity.XiangQingActivity;
+import fourteam.cck.com.fourteam.adapter.ChoicenessAdapter;
 import fourteam.cck.com.fourteam.bean.ChoicenessBean;
 import fourteam.cck.com.fourteam.cck.presenter.ChoicenessPresenterImpl;
 import fourteam.cck.com.fourteam.cck.view.ChoicenessView;
@@ -54,8 +59,8 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
     @Override
     public void showData(ChoicenessBean choicenessBean) {
         String msg = choicenessBean.getMsg();
-        Log.i("xxx",msg);
-        List<ChoicenessBean.RetBean.ListBean.ChildListBean> childList = choicenessBean.getRet().getList().get(0).getChildList();
+        Log.i("xxx", msg);
+        final List<ChoicenessBean.RetBean.ListBean.ChildListBean> childList = choicenessBean.getRet().getList().get(0).getChildList();
         for (int i = 0; i < childList.size(); i++) {
             String pic = childList.get(i).getPic();
             list.add(pic);
@@ -68,7 +73,20 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
         mBanner.setDelayTime(3000);
         //banner设置方法全部调用完毕时最后调用
         mBanner.start();
-
+        mRvList.setLayoutManager(new LinearLayoutManager(getActivity()));
+        //实例化adapter对象
+        List<ChoicenessBean.RetBean.ListBean.ChildListBean> Rvlist = choicenessBean.getRet().getList().get(4).getChildList();
+        ChoicenessAdapter choicenessAdapter = new ChoicenessAdapter(getActivity(), Rvlist);
+        mRvList.setAdapter(choicenessAdapter);
+        choicenessAdapter.setOnGoodsListener(new ChoicenessAdapter.OnGoodsListener() {
+            @Override
+            public void onChildItemClick(ChoicenessBean.RetBean.ListBean.ChildListBean Rvlist) {
+                String title = Rvlist.getTitle();
+                Toast.makeText(getActivity(),title,Toast.LENGTH_SHORT).show();
+                Intent intent=new Intent(getActivity(), XiangQingActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }
