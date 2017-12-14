@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,14 +12,21 @@ import android.widget.EditText;
 
 import com.youth.banner.Banner;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import fourteam.cck.com.fourteam.R;
+import fourteam.cck.com.fourteam.bean.ChoicenessBean;
+import fourteam.cck.com.fourteam.cck.presenter.ChoicenessPresenterImpl;
+import fourteam.cck.com.fourteam.cck.view.ChoicenessView;
+import fourteam.cck.com.fourteam.util.FrescoImageLoader;
 
 /**
  * Created by C-PC on 2017/12/13.
  * 精选页面fragment
  */
 
-public class ChoicenessFragment extends Fragment {
+public class ChoicenessFragment extends Fragment implements ChoicenessView{
     private View view;
     private Banner mBanner;
     /**
@@ -26,13 +34,14 @@ public class ChoicenessFragment extends Fragment {
      */
     private EditText mEtFind;
     private RecyclerView mRvList;
-
+    List<String> list=new ArrayList<>();
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.choiceness_fragment, null);
         initView(view);
-
+        ChoicenessPresenterImpl choicenessPresenter=new ChoicenessPresenterImpl(this);
+        choicenessPresenter.guanlian();
         return view;
     }
 
@@ -40,5 +49,26 @@ public class ChoicenessFragment extends Fragment {
         mBanner = (Banner) view.findViewById(R.id.banner);
         mEtFind = (EditText) view.findViewById(R.id.et_find);
         mRvList = (RecyclerView) view.findViewById(R.id.rv_list);
+    }
+
+    @Override
+    public void showData(ChoicenessBean choicenessBean) {
+        String msg = choicenessBean.getMsg();
+        Log.i("xxx",msg);
+        List<ChoicenessBean.RetBean.ListBean.ChildListBean> childList = choicenessBean.getRet().getList().get(0).getChildList();
+        for (int i = 0; i < childList.size(); i++) {
+            String pic = childList.get(i).getPic();
+            list.add(pic);
+        }
+        //设置图片加载器
+        mBanner.setImageLoader(new FrescoImageLoader());
+        //设置图片集合
+        mBanner.setImages(list);
+        //设置轮播时间
+        mBanner.setDelayTime(3000);
+        //banner设置方法全部调用完毕时最后调用
+        mBanner.start();
+
+
     }
 }
