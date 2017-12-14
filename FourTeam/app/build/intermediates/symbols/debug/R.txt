@@ -767,6 +767,7 @@ int id progress_circular 0x7f0c0006
 int id progress_horizontal 0x7f0c0007
 int id radio 0x7f0c0054
 int id realtabcontent 0x7f0c0072
+int id recyc_special 0x7f0c0094
 int id render_view 0x7f0c0008
 int id right_icon 0x7f0c008c
 int id right_side 0x7f0c0087
@@ -803,8 +804,8 @@ int id status_bar_latest_event_content 0x7f0c0082
 int id submenuarrow 0x7f0c0055
 int id submit_area 0x7f0c0066
 int id tabMode 0x7f0c0016
-int id tab_item_iv 0x7f0c0094
-int id tab_item_tv 0x7f0c0095
+int id tab_item_iv 0x7f0c0095
+int id tab_item_tv 0x7f0c0096
 int id text 0x7f0c0092
 int id text2 0x7f0c0090
 int id textSpacerNoButtons 0x7f0c0049

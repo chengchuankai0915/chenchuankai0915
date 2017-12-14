@@ -2946,6 +2946,7 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c0054;
         public static final int realtabcontent=0x7f0c0072;
+        public static final int recyc_special=0x7f0c0094;
         public static final int render_view=0x7f0c0008;
         public static final int right_icon=0x7f0c008c;
         public static final int right_side=0x7f0c0087;
@@ -2982,8 +2983,8 @@ containing a value of this type.
         public static final int submenuarrow=0x7f0c0055;
         public static final int submit_area=0x7f0c0066;
         public static final int tabMode=0x7f0c0016;
-        public static final int tab_item_iv=0x7f0c0094;
-        public static final int tab_item_tv=0x7f0c0095;
+        public static final int tab_item_iv=0x7f0c0095;
+        public static final int tab_item_tv=0x7f0c0096;
         public static final int text=0x7f0c0092;
         public static final int text2=0x7f0c0090;
         public static final int textSpacerNoButtons=0x7f0c0049;
