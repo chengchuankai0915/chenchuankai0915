@@ -196,6 +196,10 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\comment_item.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
