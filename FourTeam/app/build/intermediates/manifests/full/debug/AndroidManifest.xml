@@ -9,6 +9,7 @@
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <meta-data
         android:name="android.support.VERSION"
@@ -30,7 +31,11 @@
             </intent-filter>
         </activity>
         <activity android:name="fourteam.cck.com.fourteam.activity.XiangQingActivity" />
+<<<<<<< HEAD
         <activity android:name="fourteam.cck.com.fourteam.activity.FindActivity" />
+=======
+        <activity android:name="fourteam.cck.com.fourteam.csh.FilmLibraryActivity" />
+>>>>>>> e5e81af84ed86bab333b52a974bcc8e49d11d41b
     </application>
 
 </manifest>
