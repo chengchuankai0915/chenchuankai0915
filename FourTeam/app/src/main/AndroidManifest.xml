@@ -21,11 +21,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.XiangQingActivity" />
-<<<<<<< HEAD
+
         <activity android:name=".activity.FindActivity"></activity>
-=======
+
         <activity android:name=".csh.FilmLibraryActivity"></activity>
->>>>>>> e5e81af84ed86bab333b52a974bcc8e49d11d41b
+
     </application>
 
 </manifest>
