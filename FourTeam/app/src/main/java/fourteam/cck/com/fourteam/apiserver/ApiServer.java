@@ -1,7 +1,9 @@
 package fourteam.cck.com.fourteam.apiserver;
 
 import fourteam.cck.com.fourteam.bean.ChoicenessBean;
+import fourteam.cck.com.fourteam.bean.FaXianBean;
 import retrofit2.http.GET;
+import retrofit2.http.Query;
 import rx.Observable;
 
 /**
@@ -18,4 +20,9 @@ public interface ApiServer {
 
     @GET("homePageApi/homePage.do")
     Observable<ChoicenessBean> getParms();
+/**
+ * 发现界面
+ */
+    @GET("columns/getVideoList.do")
+    Observable<FaXianBean>    getFind(@Query("catalogId") String catalogId , @Query("pnum") String pnum);
 }
