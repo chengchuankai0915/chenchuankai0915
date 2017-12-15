@@ -1,6 +1,8 @@
 package fourteam.cck.com.fourteam.fragment;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -13,6 +15,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.youth.banner.Banner;
+import com.youth.banner.listener.OnBannerClickListener;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,10 +57,10 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
     }
 
     @Override
-    public void showData(ChoicenessBean choicenessBean) {
+    public void showData(final ChoicenessBean choicenessBean) {
         String msg = choicenessBean.getMsg();
         Log.i("xxx", msg);
-        final List<ChoicenessBean.RetBean.ListBean.ChildListBean> childList = choicenessBean.getRet().getList().get(0).getChildList();
+        final List<ChoicenessBean.RetBean.ListBean.ChildListBean> childList = choicenessBean.getRet().getList().get(10).getChildList();
         for (int i = 0; i < childList.size(); i++) {
             String pic = childList.get(i).getPic();
             list.add(pic);
@@ -70,6 +73,20 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
         mBanner.setDelayTime(3000);
         //banner设置方法全部调用完毕时最后调用
         mBanner.start();
+        //banner点击事件
+        mBanner.setOnBannerClickListener(new OnBannerClickListener() {
+            @Override
+            public void OnBannerClick(int position) {
+                //List<ChoicenessBean.RetBean.ListBean.ChildListBean> list = choicenessBean.getRet().getList().get(10).getChildList();
+                String title=childList.get(position).getTitle();
+                String loadURL = childList.get(position).getLoadURL();
+                Toast.makeText(getActivity(),title,Toast.LENGTH_SHORT).show();
+                Intent intent=new Intent(getActivity(), XiangQingActivity.class);
+                intent.putExtra("loadURL",loadURL);
+                //intent.putExtra("dataId",dataId);
+                startActivity(intent);
+            }
+        });
         mRvList.setLayoutManager(new LinearLayoutManager(getActivity()));
         //实例化adapter对象
         List<ChoicenessBean.RetBean.ListBean.ChildListBean> Rvlist = choicenessBean.getRet().getList().get(4).getChildList();
@@ -80,11 +97,19 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
             public void onChildItemClick(ChoicenessBean.RetBean.ListBean.ChildListBean Rvlist) {
                 String title = Rvlist.getTitle();
                 String loadURL = Rvlist.getLoadURL();
+                String dataId = Rvlist.getDataId();
                 Rvlist.getAirTime();
+               // String dataId = childList.get(position).getDataId();
+                Log.e("zzz",dataId);
+                SharedPreferences sharedPreferences=getActivity().getSharedPreferences("ID", Context.MODE_PRIVATE);
+                SharedPreferences.Editor edit = sharedPreferences.edit();
+                edit.putString("dataId",dataId);
+                edit.commit();
                 Toast.makeText(getActivity(),title,Toast.LENGTH_SHORT).show();
                 Intent intent=new Intent(getActivity(), XiangQingActivity.class);
                 intent.putExtra("title",title);
                 intent.putExtra("loadURL",loadURL);
+                intent.putExtra("dataId",dataId);
                 startActivity(intent);
             }
         });

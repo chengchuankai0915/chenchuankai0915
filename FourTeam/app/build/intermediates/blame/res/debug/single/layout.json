@@ -248,6 +248,13 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\notification_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+>>>>>>> aa5864b399f830de74f38ed4f7b6874d1189254b
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rvlist_item.xml",
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\rvlist_item.xml"
     },
@@ -404,12 +411,17 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_special.xml",
         "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\item_special.xml"
+=======
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\grid_item.xml"
+>>>>>>> aa5864b399f830de74f38ed4f7b6874d1189254b
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",

@@ -8,4 +8,5 @@ public class Api {
     //首页接口
     //public static String SHOUYE="http://api.svipmovie.com/front/homePageApi/homePage.do";
     public static String SHOUYE="http://api.svipmovie.com/front/";
+
 }
