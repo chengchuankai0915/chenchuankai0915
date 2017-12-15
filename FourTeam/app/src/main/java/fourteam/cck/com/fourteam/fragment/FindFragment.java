@@ -70,8 +70,7 @@ private  int i=2;
        find_adapter.setOnCilcklist(new Find_Adapter.OnCilcklist() {
            @Override
            public void Onsewssce(FaXianBean.RetBean.ListBean listBean) {
-
-               Toast.makeText(getActivity(),listBean.getDataId(),Toast.LENGTH_LONG).show();
+               Toast.makeText(getActivity(),listBean.getLoadURL(),Toast.LENGTH_LONG).show();
            }
        });
     }
@@ -84,14 +83,7 @@ private  int i=2;
                 //list = faXianBean1.getRet().getList();
                 Find_presenter find_presenter = new Find_presenter(this);
                 find_presenter.relevance("402834815584e463015584e539330016", add+"");
-               /* mFindRv.setLayoutManager(new OverLayCardLayoutManager());
-                find_adapter=       new Find_Adapter(getActivity(),list);
-                CardConfig.initConfig(getActivity());
-                ItemTouchHelper.Callback callback = new RenRenCallback(mFindRv, find_adapter, list);
-                ItemTouchHelper itemTouchHelper = new ItemTouchHelper(callback);
-                itemTouchHelper.attachToRecyclerView(mFindRv);
-                CardConfig.MAX_SHOW_COUNT = 3;
-                mFindRv.setAdapter(find_adapter);*/
+
                 break;
         }
     }

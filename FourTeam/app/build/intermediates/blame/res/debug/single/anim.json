@@ -1,11 +1,23 @@
 [
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
@@ -18,6 +30,10 @@
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -36,7 +52,31 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\anim\\abc_popup_enter.xml"
     }
 ]
