@@ -42,6 +42,6 @@ dependencies {
     compile 'com.github.leifzhang:IjkLib:0.4.3'
     compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile 'com.github.mcxtzhang:ZLayoutManager:V1.1.0'
-    compile 'com.google.code.gson:gson:2.4'
+    //compile 'com.google.code.gson:gson:2.4'
     testCompile 'junit:junit:4.12'
 }
