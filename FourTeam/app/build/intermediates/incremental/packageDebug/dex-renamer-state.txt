@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 #Fri Dec 15 16:55:57 CST 2017
+=======
+<<<<<<< HEAD
+#Fri Dec 15 15:14:59 CST 2017
+base.0=F\:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+=======
+#Fri Dec 15 15:12:07 CST 2017
+>>>>>>> 6deda6e294da78f26b295bf73c0ea65aede06ba1
 base.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+>>>>>>> aa5864b399f830de74f38ed4f7b6874d1189254b
 renamed.0=classes.dex
-file.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=F\:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
