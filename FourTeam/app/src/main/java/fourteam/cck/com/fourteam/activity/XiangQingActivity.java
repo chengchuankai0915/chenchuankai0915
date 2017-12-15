@@ -1,6 +1,7 @@
 package fourteam.cck.com.fourteam.activity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Build;
@@ -42,7 +43,7 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
     private String loadURL;
     private String title;
     private String[] names = {"简介","评论"};
-    private int indicatorColor = 6064384;
+    //private int indicatorColor = 6064384;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -67,7 +68,6 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         mTvTitle.setText(title);
         //请求详情地址
         getNet();
-
         //向ViewPager绑定PagerSlidingTabStrip
         mVp.setAdapter(new MyPagerAdapter(getSupportFragmentManager()));
         mTabs.setViewPager(mVp);
@@ -109,6 +109,13 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
             @Override
             public void onSuccess(BaseBean baseBean) {
                 XiangQingBean bean= (XiangQingBean) baseBean;
+                String director = bean.getRet().getDirector();
+                String actors = bean.getRet().getActors();
+                XiangQingBean.RetBean ret = bean.getRet();
+                SharedPreferences sharedPreferences=getSharedPreferences("BEAN",MODE_PRIVATE);
+                SharedPreferences.Editor edit = sharedPreferences.edit();
+                edit.putString("loadURL", loadURL);
+                edit.commit();
                 String hdurl = bean.getRet().getHDURL();
                 AndroidMediaController controller = new AndroidMediaController(XiangQingActivity.this, false);
                 mIvv.setMediaController(controller);
@@ -123,6 +130,8 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
             }
         });
     }
+
+
 
 
     //适配器
@@ -158,4 +167,9 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         }
     }
 
+    @Override
+    protected void onStop() {
+        super.onStop();
+        this.finish();
+    }
 }

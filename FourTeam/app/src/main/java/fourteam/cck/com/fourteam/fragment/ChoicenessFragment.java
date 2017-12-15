@@ -80,11 +80,13 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
             public void onChildItemClick(ChoicenessBean.RetBean.ListBean.ChildListBean Rvlist) {
                 String title = Rvlist.getTitle();
                 String loadURL = Rvlist.getLoadURL();
+                String dataId = Rvlist.getDataId();
                 Rvlist.getAirTime();
                 Toast.makeText(getActivity(),title,Toast.LENGTH_SHORT).show();
                 Intent intent=new Intent(getActivity(), XiangQingActivity.class);
                 intent.putExtra("title",title);
                 intent.putExtra("loadURL",loadURL);
+                intent.putExtra("dataId",dataId);
                 startActivity(intent);
             }
         });
