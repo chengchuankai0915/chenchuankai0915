@@ -63,7 +63,7 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
         initView();
-        Intent intent = getIntent();
+        final Intent intent = getIntent();
         loadURL = intent.getStringExtra("loadURL");
         title = intent.getStringExtra("title");
         dataId = intent.getStringExtra("dataId");
@@ -75,6 +75,14 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         //向ViewPager绑定PagerSlidingTabStrip
         mVp.setAdapter(new MyPagerAdapter(getSupportFragmentManager()));
         mTabs.setViewPager(mVp);
+
+        //返回按钮
+        mIvBack.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
 
 
     }

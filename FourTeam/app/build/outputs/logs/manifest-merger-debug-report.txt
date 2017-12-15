@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:
 	android:name
 		ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:7:5-23:19
+ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:7:5-24:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\C-PC\.android\build-cache\0029470ffcc8d228f79a045ca15ff8f6bb47c2c7\output\AndroidManifest.xml:9:5-20
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\C-PC\.android\build-cache\c305d68e81da32fd9480f1e0d3d2ed0292928428\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\C-PC\.android\build-cache\c92ea8c00247151fe61bbcfebe6029e6116d52df\output\AndroidManifest.xml:29:5-20
@@ -62,9 +62,13 @@ ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:
 	android:name
 		ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:19:27-74
 activity#fourteam.cck.com.fourteam.activity.XiangQingActivity
-ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:22:9-73
+ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:22:9-64
 	android:name
 		ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:22:19-61
+activity#fourteam.cck.com.fourteam.activity.FindActivity
+ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:23:19-56
 uses-sdk
 INJECTED from D:\githup\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\C-PC\.android\build-cache\0029470ffcc8d228f79a045ca15ff8f6bb47c2c7\output\AndroidManifest.xml:5:5-7:41

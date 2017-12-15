@@ -30,6 +30,7 @@
             </intent-filter>
         </activity>
         <activity android:name="fourteam.cck.com.fourteam.activity.XiangQingActivity" />
+        <activity android:name="fourteam.cck.com.fourteam.activity.FindActivity" />
     </application>
 
 </manifest>

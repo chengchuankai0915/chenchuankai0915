@@ -19,7 +19,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.XiangQingActivity"></activity>
+        <activity android:name=".activity.XiangQingActivity" />
+        <activity android:name=".activity.FindActivity"></activity>
     </application>
 
 </manifest>
