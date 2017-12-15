@@ -26,15 +26,17 @@ ADDED from D:\github\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\3091a3e5470d877ae329c0d453ea2d645a8ac70f\output\AndroidManifest.xml:9:5-20
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\f4c228a0964e297d5c6661ab43467b02d7fb37e6\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\55037fe9928bd6be62d27d43273c010f01011fa3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\387e37d0dce325d71b149aded02e57011e20792f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\b70d50fc48c0d8c8330b430649f0ea8b16bd944a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.leifzhang:IjkLib:0.4.3] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\eb9d63f9faaeaa39c0dbd7a637a80d1b72d00d22\output\AndroidManifest.xml:11:5-13:38
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\8f2acc638019a6cb1138e18e4bbdedea3b127444\output\AndroidManifest.xml:4:5-19
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\83f5caa7cf9c87dbb4dbdbad4fbec15dd8b19ee7\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\4a171a97d4aa807bcade09eb3766e14957f4ae50\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\9fc55e5a399105b630c1d6e04f737902a8a231a9\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\ecada0d2b419b23a674b066afa02ef7937a92502\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\387e37d0dce325d71b149aded02e57011e20792f\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\b70d50fc48c0d8c8330b430649f0ea8b16bd944a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.mcxtzhang:ZLayoutManager:V1.1.0] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\0644bab2a2a6aa8bf4a5112192e4249c45ee40c3\output\AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\842aceae1ce9790246151a11652f393bf3758a53\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\580a9a68e673d0c47e2b21d5cb1aa438ed069238\output\AndroidManifest.xml:29:5-20
-MERGED from [com.github.leifzhang:IjkLib:0.4.3] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\eb9d63f9faaeaa39c0dbd7a637a80d1b72d00d22\output\AndroidManifest.xml:11:5-13:38
 	android:label
 		ADDED from D:\github\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
@@ -76,15 +78,8 @@ INJECTED from D:\github\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.x
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\3091a3e5470d877ae329c0d453ea2d645a8ac70f\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.hjm:BottomTabBar:1.1.1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\f4c228a0964e297d5c6661ab43467b02d7fb37e6\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\55037fe9928bd6be62d27d43273c010f01011fa3\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\83f5caa7cf9c87dbb4dbdbad4fbec15dd8b19ee7\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\4a171a97d4aa807bcade09eb3766e14957f4ae50\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\9fc55e5a399105b630c1d6e04f737902a8a231a9\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\ecada0d2b419b23a674b066afa02ef7937a92502\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\387e37d0dce325d71b149aded02e57011e20792f\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\b70d50fc48c0d8c8330b430649f0ea8b16bd944a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\e7c295f0cd593e868ed118a83afde32f0494bba0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\842aceae1ce9790246151a11652f393bf3758a53\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\580a9a68e673d0c47e2b21d5cb1aa438ed069238\output\AndroidManifest.xml:21:5-23:58
 MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\efbbc2c0b9855831f8dbfff480e6469f42a61d1d\output\AndroidManifest.xml:19:5-43
 MERGED from [com.youth.banner:banner:1.4.2] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\a957846305b8fe8ff9fbf20bcafd85f903a7507a\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\e7a706f9725f30322d1d9dc3a5653c3ab1601ee9\output\AndroidManifest.xml:5:5-7:41
@@ -94,6 +89,15 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\≤‹…Ÿ∫Ω\.andr
 MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\d5d291091dc85c61f0f7e949115f1e5b8c032985\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.leifzhang:IjkLib:0.4.3] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\eb9d63f9faaeaa39c0dbd7a637a80d1b72d00d22\output\AndroidManifest.xml:7:5-9:41
 MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\39004f5efb9f89310a8860b786fcf9c93229e0ea\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\8f2acc638019a6cb1138e18e4bbdedea3b127444\output\AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\83f5caa7cf9c87dbb4dbdbad4fbec15dd8b19ee7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\4a171a97d4aa807bcade09eb3766e14957f4ae50\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\9fc55e5a399105b630c1d6e04f737902a8a231a9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\ecada0d2b419b23a674b066afa02ef7937a92502\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.github.mcxtzhang:ZLayoutManager:V1.1.0] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\0644bab2a2a6aa8bf4a5112192e4249c45ee40c3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\e7c295f0cd593e868ed118a83afde32f0494bba0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\842aceae1ce9790246151a11652f393bf3758a53\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\580a9a68e673d0c47e2b21d5cb1aa438ed069238\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\55037fe9928bd6be62d27d43273c010f01011fa3\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -104,12 +108,12 @@ MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.7.8.1] C:\Users\≤‹…Ÿ∫Ω\.andro
 		INJECTED from D:\github\chenchuankai0915\FourTeam\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\55037fe9928bd6be62d27d43273c010f01011fa3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\387e37d0dce325d71b149aded02e57011e20792f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\b70d50fc48c0d8c8330b430649f0ea8b16bd944a\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\83f5caa7cf9c87dbb4dbdbad4fbec15dd8b19ee7\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\4a171a97d4aa807bcade09eb3766e14957f4ae50\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\9fc55e5a399105b630c1d6e04f737902a8a231a9\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\ecada0d2b419b23a674b066afa02ef7937a92502\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\387e37d0dce325d71b149aded02e57011e20792f\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\b70d50fc48c0d8c8330b430649f0ea8b16bd944a\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\e7c295f0cd593e868ed118a83afde32f0494bba0\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\842aceae1ce9790246151a11652f393bf3758a53\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\≤‹…Ÿ∫Ω\.android\build-cache\580a9a68e673d0c47e2b21d5cb1aa438ed069238\output\AndroidManifest.xml:25:5-27:41
