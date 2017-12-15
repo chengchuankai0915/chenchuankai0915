@@ -3,6 +3,7 @@
     package="fourteam.cck.com.fourteam">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
         android:name=".app.Myapp"
@@ -19,7 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.XiangQingActivity"></activity>
+        <activity android:name=".activity.XiangQingActivity" />
+        <activity android:name=".csh.FilmLibraryActivity"></activity>
     </application>
 
 </manifest>
