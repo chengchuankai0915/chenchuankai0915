@@ -43,6 +43,8 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
     private String loadURL;
     private String title;
     private String[] names = {"简介","评论"};
+    private String dataId;
+
     //private int indicatorColor = 6064384;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,6 +66,8 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         Intent intent = getIntent();
         loadURL = intent.getStringExtra("loadURL");
         title = intent.getStringExtra("title");
+        dataId = intent.getStringExtra("dataId");
+
         //设置标题
         mTvTitle.setText(title);
         //请求详情地址
