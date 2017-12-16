@@ -31,7 +31,9 @@
             </intent-filter>
         </activity>
         <activity android:name="fourteam.cck.com.fourteam.activity.XiangQingActivity" />
+        <activity android:name="fourteam.cck.com.fourteam.activity.FindActivity" />
         <activity android:name="fourteam.cck.com.fourteam.csh.FilmLibraryActivity" />
+        <activity android:name="fourteam.cck.com.fourteam.activity.LishiActivity" />
     </application>
 
 </manifest>

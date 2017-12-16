@@ -6,6 +6,7 @@ import fourteam.cck.com.fourteam.bean.FaXianBean;
 
 import fourteam.cck.com.fourteam.bean.CommentBean;
 
+import fourteam.cck.com.fourteam.bean.FindBean;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;
@@ -38,5 +39,12 @@ public interface ApiServer {
 
     @GET("Commentary/getCommentList.do")
     Observable<CommentBean> getHasParms(@Query("mediaId") String mediaId);
+
+    /**
+     * 搜索http://api.svipmovie.com/front/searchKeyWordApi/getVideoListByKeyWord.do?keyword="哈"&pnum=1
+     */
+
+    @GET("searchKeyWordApi/getVideoListByKeyWord.do")
+    Observable<FindBean> getFindHasParms(@Query("keyword") String keyword,@Query("pnum") int pnum);
 
 }

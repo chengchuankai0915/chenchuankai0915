@@ -24,6 +24,7 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    //compile 'com.google.code.gson:gson:2.4'
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.hjm:BottomTabBar:1.1.1'
@@ -42,6 +43,5 @@ dependencies {
     compile 'com.github.leifzhang:IjkLib:0.4.3'
     compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
     compile 'com.github.mcxtzhang:ZLayoutManager:V1.1.0'
-    //compile 'com.google.code.gson:gson:2.4'
     testCompile 'junit:junit:4.12'
 }
