@@ -67,7 +67,6 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
         loadURL = intent.getStringExtra("loadURL");
         title = intent.getStringExtra("title");
         dataId = intent.getStringExtra("dataId");
-
         //设置标题
         mTvTitle.setText(title);
         //请求详情地址
@@ -123,6 +122,7 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
                 XiangQingBean bean= (XiangQingBean) baseBean;
                 String director = bean.getRet().getDirector();
                 String actors = bean.getRet().getActors();
+                String title2 = bean.getRet().getTitle();
                 XiangQingBean.RetBean ret = bean.getRet();
                 SharedPreferences sharedPreferences=getSharedPreferences("BEAN",MODE_PRIVATE);
                 SharedPreferences.Editor edit = sharedPreferences.edit();
@@ -135,6 +135,8 @@ public class XiangQingActivity extends AppCompatActivity implements View.OnClick
                 // String url = "http://o6wf52jln.bkt.clouddn.com/演员.mp3";
                 mIvv.setVideoURI(Uri.parse(hdurl));
                 mIvv.start();
+                //设置标题
+                mTvTitle.setText(title2);
             }
             @Override
             public void onError() {

@@ -1,4 +1,4 @@
-#Fri Dec 15 21:09:21 CST 2017
+#Sat Dec 16 10:05:49 CST 2017
 base.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
