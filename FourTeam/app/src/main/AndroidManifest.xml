@@ -21,7 +21,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.XiangQingActivity" />
+
+        <activity android:name=".activity.FindActivity"></activity>
+
         <activity android:name=".csh.FilmLibraryActivity"></activity>
+
     </application>
 
 </manifest>

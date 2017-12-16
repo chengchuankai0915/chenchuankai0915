@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\曹少航\\.android\\build-cache\\93bd64546709ad4db63b128e31c09f7923877b34\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\C-PC\\.android\\build-cache\\5e963163f250b5e57cbba941edbd4623c785631b\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

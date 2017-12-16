@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import com.youth.banner.Banner;
@@ -21,6 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
+import fourteam.cck.com.fourteam.activity.FindActivity;
 import fourteam.cck.com.fourteam.activity.XiangQingActivity;
 import fourteam.cck.com.fourteam.adapter.ChoicenessAdapter;
 import fourteam.cck.com.fourteam.bean.ChoicenessBean;
@@ -41,13 +43,24 @@ public class ChoicenessFragment extends Fragment implements ChoicenessView{
      */
     private RecyclerView mRvList;
     List<String> list=new ArrayList<>();
+    private RelativeLayout find;
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.choiceness_fragment, null);
+        find = view.findViewById(R.id.find);
         initView(view);
         ChoicenessPresenterImpl choicenessPresenter=new ChoicenessPresenterImpl(this);
         choicenessPresenter.guanlian();
+        //搜索跳转
+        find.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(getActivity(), FindActivity.class);
+                startActivity(intent);
+            }
+        });
         return view;
     }
 

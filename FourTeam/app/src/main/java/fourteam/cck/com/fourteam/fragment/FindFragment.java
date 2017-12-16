@@ -1,5 +1,6 @@
 package fourteam.cck.com.fourteam.fragment;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -9,7 +10,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.Toast;
 
 import com.mcxtzhang.layoutmanager.swipecard.CardConfig;
 import com.mcxtzhang.layoutmanager.swipecard.OverLayCardLayoutManager;
@@ -18,6 +18,7 @@ import com.mcxtzhang.layoutmanager.swipecard.RenRenCallback;
 import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
+import fourteam.cck.com.fourteam.activity.XiangQingActivity;
 import fourteam.cck.com.fourteam.bean.BaseBean;
 import fourteam.cck.com.fourteam.bean.FaXianBean;
 import fourteam.cck.com.fourteam.gyz.findadapter.Find_Adapter;
@@ -70,7 +71,9 @@ private  int i=2;
        find_adapter.setOnCilcklist(new Find_Adapter.OnCilcklist() {
            @Override
            public void Onsewssce(FaXianBean.RetBean.ListBean listBean) {
-               Toast.makeText(getActivity(),listBean.getLoadURL(),Toast.LENGTH_LONG).show();
+               Intent intent = new Intent(getActivity(), XiangQingActivity.class);
+               intent.putExtra("loadURL",listBean.getLoadURL());
+               startActivity(intent);
            }
        });
     }
