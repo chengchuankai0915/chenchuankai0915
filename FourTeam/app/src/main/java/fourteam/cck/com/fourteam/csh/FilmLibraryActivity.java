@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
+import fourteam.cck.com.fourteam.activity.XiangQingActivity;
 import fourteam.cck.com.fourteam.csh.adapter.FilmAdapter;
 import fourteam.cck.com.fourteam.csh.utils.OkHttpUtils;
 import fourteam.cck.com.fourteam.csh.utils.OnNetListener;
@@ -33,10 +34,19 @@ public class FilmLibraryActivity extends AppCompatActivity {
         OkHttpUtils.getInstance(this).doget(moreURLs, FilmBean.class, new OnNetListener() {
             @Override
             public void onSuccess(Object o) throws IOException {
-                FilmBean filmBean=(FilmBean)o;
+                final FilmBean filmBean=(FilmBean)o;
                 List<FilmBean.RetBean.ListBean> list = filmBean.getRet().getList();
                 FilmAdapter adapter = new FilmAdapter(FilmLibraryActivity.this,list);
                 film_recycler.setAdapter(adapter);
+                adapter.setOnRecyclerListener(new FilmAdapter.OnRecyclerListener() {
+                    @Override
+                    public void onRecycler(int position) {
+                        Intent intent1 = new Intent(FilmLibraryActivity.this, XiangQingActivity.class);
+                        intent1.putExtra("loadURL",filmBean.getRet().getList().get(position).getLoadURL());
+                        startActivity(intent1);
+
+                    }
+                });
 
             }
 
