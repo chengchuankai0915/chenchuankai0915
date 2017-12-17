@@ -25,6 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 <LinearLayout
+    android:id="@+id/lishi"
     android:layout_marginTop="20dp"
     android:orientation="horizontal"
     android:layout_width="match_parent"
@@ -38,7 +39,7 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:src="@mipmap/ic_launcher"
+            android:src="@drawable/aa"
             android:layout_width="20dp"
             android:layout_height="20dp" />
         <TextView
@@ -63,7 +64,7 @@
 
 
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
+        android:background="#F0F0F0"
         android:layout_width="match_parent"
         android:layout_height="1dp"/>
     <GridView
@@ -74,10 +75,11 @@
 
 
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
+        android:background="#F0F0F0"
         android:layout_width="match_parent"
         android:layout_height="1dp"/>
     <LinearLayout
+        android:id="@+id/huancun"
         android:layout_marginTop="20dp"
         android:orientation="horizontal"
         android:layout_width="match_parent"
@@ -90,13 +92,13 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:src="@mipmap/ic_launcher"
+                android:src="@drawable/dd"
                 android:layout_width="20dp"
                 android:layout_height="20dp" />
             <TextView
                 android:layout_marginLeft="5dp"
                 android:layout_gravity="center"
-                android:text="历史"
+                android:text="缓存"
                 android:textColor="#ffffff"
                 android:textSize="12sp"
                 android:layout_width="wrap_content"
@@ -115,10 +117,11 @@
 
 
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
+        android:background="#F0F0F0"
         android:layout_width="match_parent"
         android:layout_height="1dp"/>
     <LinearLayout
+        android:id="@+id/shoucang"
         android:layout_marginTop="20dp"
         android:orientation="horizontal"
         android:layout_width="match_parent"
@@ -134,14 +137,14 @@
             <ImageView
                 android:layout_width="20dp"
                 android:layout_height="20dp"
-                android:src="@mipmap/ic_launcher" />
+                android:src="@drawable/cc" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginLeft="5dp"
-                android:text="历史"
+                android:text="收藏"
                 android:textColor="#ffffff"
                 android:textSize="12sp" />
 
@@ -159,11 +162,12 @@
 
 
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
+        android:background="#F0F0F0"
         android:layout_width="match_parent"
         android:layout_height="1dp"/>
 
     <LinearLayout
+        android:id="@+id/zhuti"
         android:layout_marginTop="20dp"
         android:orientation="horizontal"
         android:layout_width="match_parent"
@@ -177,13 +181,13 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:src="@mipmap/ic_launcher"
+                android:src="@drawable/dd"
                 android:layout_width="20dp"
                 android:layout_height="20dp" />
             <TextView
                 android:layout_marginLeft="5dp"
                 android:layout_gravity="center"
-                android:text="历史"
+                android:text="主题"
                 android:textColor="#ffffff"
                 android:textSize="12sp"
                 android:layout_width="wrap_content"
@@ -202,7 +206,7 @@
 
 
         android:layout_gravity="center"
-        android:background="@color/colorPrimary"
+        android:background="#F0F0F0"
         android:layout_width="match_parent"
         android:layout_height="1dp"/>
     </LinearLayout>
