@@ -1,7 +1,11 @@
 [
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_action_tombstone.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_action_tombstone.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiang_qing.xml",
@@ -13,7 +17,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -37,7 +45,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_menu_layout.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_menu_layout.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
@@ -65,7 +77,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_action.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_action.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -73,7 +89,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find.xml",
@@ -85,7 +105,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_tab_bar.xml",
@@ -101,11 +125,24 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\a957846305b8fe8ff9fbf20bcafd85f903a7507a\\output\\res\\layout\\banner.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\select_dialog_item_material.xml"
+=======
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\Maibenben\\.android\\build-cache\\ecb4819df76db393c9f5ae0685f29427fa72145c\\output\\res\\layout\\banner.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
+>>>>>>> 88860972b5d7de2613114fa3b61da4aa2f5339e3
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
@@ -121,14 +158,33 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_mode_bar.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lishi.xml",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\activity_lishi.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_media_custom.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
@@ -146,6 +202,7 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_media_custom.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
@@ -156,8 +213,23 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+=======
+        "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+>>>>>>> 88860972b5d7de2613114fa3b61da4aa2f5339e3
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -173,6 +245,17 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_tab_bar.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\f4c228a0964e297d5c6661ab43467b02d7fb37e6\\output\\res\\layout\\bottom_tab_bar.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
@@ -182,6 +265,7 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
@@ -197,7 +281,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -205,6 +293,21 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_search_view.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
@@ -222,6 +325,7 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\layout\\list_item.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -233,11 +337,19 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -245,7 +357,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_bar_title_item.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiang_qing.xml",
@@ -257,11 +373,19 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\special_fragment.xml",
@@ -277,7 +401,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\special_fragment.xml",
@@ -285,6 +413,17 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_lines_media.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
@@ -294,6 +433,7 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_lines_media.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
@@ -301,7 +441,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\select_dialog_item_material.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\select_dialog_item_material.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rvlist_item.xml",
@@ -317,7 +461,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -353,7 +501,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_dialog_title_material.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_dialog_title_material.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jianjie_fragment.xml",
@@ -365,7 +517,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -405,11 +561,19 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_part_time.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_part_time.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment.xml",
@@ -417,7 +581,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ijk_media_control.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\eb9d63f9faaeaa39c0dbd7a637a80d1b72d00d22\\output\\res\\layout\\ijk_media_control.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\2b9feaf7d0f301f724f307af011b06d9db4d9582\\output\\res\\layout\\ijk_media_control.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
@@ -425,7 +593,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_icon_group.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_icon_group.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -433,7 +605,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\abc_screen_toolbar.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\abc_screen_toolbar.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item.xml",
@@ -445,7 +621,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\f4c228a0964e297d5c6661ab43467b02d7fb37e6\\output\\res\\layout\\tab_item.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\3bfa50d9fcf87ec751d9ee60367848cb6a90558d\\output\\res\\layout\\tab_item.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_fragment.xml",
@@ -469,7 +649,11 @@
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+<<<<<<< HEAD
+        "source": "C:\\Users\\曹少航\\.android\\build-cache\\55037fe9928bd6be62d27d43273c010f01011fa3\\output\\res\\layout\\notification_template_part_chronometer.xml"
+=======
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_fragment.xml",
