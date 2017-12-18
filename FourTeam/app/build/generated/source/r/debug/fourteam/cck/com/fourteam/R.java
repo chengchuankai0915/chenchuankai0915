@@ -2997,7 +2997,7 @@ containing a value of this type.
         public static final int basic=0x7f0c0011;
         public static final int beginning=0x7f0c002f;
         public static final int bottom=0x7f0c0037;
-        public static final int btb=0x7f0c0070;
+        public static final int btb=0x7f0c0071;
         public static final int buttonPanel=0x7f0c0043;
         public static final int cancel_action=0x7f0c00a4;
         public static final int center=0x7f0c0026;
@@ -3019,11 +3019,11 @@ containing a value of this type.
         public static final int end=0x7f0c0030;
         public static final int end_padder=0x7f0c00b6;
         public static final int etSearchKey=0x7f0c0080;
-        public static final int et_find=0x7f0c006d;
+        public static final int et_find=0x7f0c006e;
         public static final int expand_activities_button=0x7f0c003d;
         public static final int expanded_menu=0x7f0c0052;
         public static final int faster=0x7f0c0096;
-        public static final int film_recycler=0x7f0c006b;
+        public static final int film_recycler=0x7f0c006d;
         public static final int find=0x7f0c007f;
         public static final int find_bu=0x7f0c008c;
         public static final int find_description=0x7f0c008a;
@@ -3050,7 +3050,7 @@ containing a value of this type.
         public static final int indicatorInside=0x7f0c007b;
         public static final int info=0x7f0c00ad;
         public static final int item_touch_helper_previous_elevation=0x7f0c0005;
-        public static final int iv_back=0x7f0c006c;
+        public static final int iv_back=0x7f0c006b;
         public static final int iv_background=0x7f0c008f;
         public static final int ivv=0x7f0c0072;
         public static final int line1=0x7f0c00b2;
@@ -3087,7 +3087,7 @@ containing a value of this type.
         public static final int right_icon=0x7f0c00af;
         public static final int right_side=0x7f0c00aa;
         public static final int rll_options=0x7f0c0090;
-        public static final int rv=0x7f0c006f;
+        public static final int rv=0x7f0c0070;
         public static final int rv_list=0x7f0c0081;
         public static final int screen=0x7f0c001f;
         public static final int scrollIndicatorDown=0x7f0c004b;
@@ -3146,8 +3146,8 @@ containing a value of this type.
         public static final int tv3=0x7f0c0085;
         public static final int tv4=0x7f0c0086;
         public static final int tv_name=0x7f0c008e;
-        public static final int tv_sousuo=0x7f0c006e;
-        public static final int tv_title=0x7f0c0071;
+        public static final int tv_sousuo=0x7f0c006f;
+        public static final int tv_title=0x7f0c006c;
         public static final int up=0x7f0c000a;
         public static final int useLogo=0x7f0c001c;
         public static final int viewpager=0x7f0c0075;
