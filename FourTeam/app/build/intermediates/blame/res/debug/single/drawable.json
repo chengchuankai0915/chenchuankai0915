@@ -4,6 +4,10 @@
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\my.png"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\05e089da06f55c5597d25f85a25a7983f85ca087\\output\\res\\drawable\\gray_radius.xml"
     },
@@ -12,12 +16,24 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\notification_bg.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\my.png"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -40,16 +56,24 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -58,6 +82,10 @@
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
@@ -72,6 +100,10 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\bb.png"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -80,16 +112,40 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\2b9feaf7d0f301f724f307af011b06d9db4d9582\\output\\res\\drawable\\scrubber_control_selector_holo.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_02.xml",
@@ -100,20 +156,48 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue.jpg",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\bg_blue.jpg"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_01.xml",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_01.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.png",
+        "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\aa.png"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.png",
-        "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\aa.png"
+        "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\901c4b7c0e620ac0be76fceb9f72d786be40cd79\\output\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\1bd5e1715ea8f23910ce9e0cfbd4cfbff5c16799\\output\\res\\drawable\\background_tab.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -126,6 +210,10 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_01.xml",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_01.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -144,8 +232,20 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -154,6 +254,10 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\096661d33ce5b7d8576d80bbae2d6b7e7465c0b4\\output\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
@@ -168,8 +272,16 @@
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\096661d33ce5b7d8576d80bbae2d6b7e7465c0b4\\output\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -192,8 +304,16 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\collection_select.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\collection_select.png"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -204,6 +324,18 @@
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\collection_select.png"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
@@ -212,8 +344,32 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\2b9feaf7d0f301f724f307af011b06d9db4d9582\\output\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_04.xml",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_04.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_03.xml",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_03.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dd.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\dd.png"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_04.xml",
@@ -226,6 +382,14 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\cc.png"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
@@ -242,6 +406,10 @@
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -268,12 +436,24 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_trans_bg.xml",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\black_trans_bg.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\901c4b7c0e620ac0be76fceb9f72d786be40cd79\\output\\res\\drawable\\gray_radius.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -296,6 +476,10 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_background.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\05e089da06f55c5597d25f85a25a7983f85ca087\\output\\res\\drawable\\black_background.xml"
     },
@@ -304,12 +488,20 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_04.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -322,6 +514,18 @@
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aa.png",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\aa.png"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -360,6 +564,10 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\ecb4819df76db393c9f5ae0685f29427fa72145c\\output\\res\\drawable\\black_background.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\901c4b7c0e620ac0be76fceb9f72d786be40cd79\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -372,12 +580,20 @@
         "source": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\black_trans_bg.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_radius.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\05e089da06f55c5597d25f85a25a7983f85ca087\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -404,12 +620,20 @@
         "source": "C:\\Users\\Maibenben\\.android\\build-cache\\b42d9d1c2a99b68ca9b0e90cec6ec1cf22d48c3e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_trans_bg.xml",
         "source": "D:\\github\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\black_trans_bg.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_02.xml",
+        "source": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\src\\main\\res\\drawable\\tab_02.xml"
     },
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
