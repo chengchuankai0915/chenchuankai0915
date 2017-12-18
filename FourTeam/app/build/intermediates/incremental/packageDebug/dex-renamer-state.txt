@@ -1,19 +1,4 @@
-<<<<<<< HEAD
-#Mon Dec 18 14:06:55 CST 2017
+#Mon Dec 18 14:23:49 CST 2017
 base.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-=======
-<<<<<<< HEAD
-#Sat Dec 16 11:58:17 CST 2017
-base.0=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-=======
-<<<<<<< HEAD
-#Sat Dec 16 10:21:23 CST 2017
-base.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-=======
-#Sat Dec 16 11:27:15 CST 2017
-base.0=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
->>>>>>> 29b996a371efc26d0e2f36306a6873be7abbe781
->>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
->>>>>>> 88860972b5d7de2613114fa3b61da4aa2f5339e3
 renamed.0=classes.dex
 file.0=D\:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

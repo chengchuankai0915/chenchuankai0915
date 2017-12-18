@@ -15,13 +15,18 @@
         android:layout_width="230dp"
         android:layout_height="230dp"
         app:roundingBorderWidth="5dp"
-        android:layout_margin="10dp"
-        />
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
     <TextView
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
         android:id="@+id/special_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:text="11"
+        android:textColor="#fff"
         android:layout_centerInParent="true"
         android:layout_alignParentBottom="true"
         />

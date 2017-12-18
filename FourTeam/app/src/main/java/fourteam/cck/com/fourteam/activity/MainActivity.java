@@ -56,13 +56,13 @@ public class MainActivity extends AppCompatActivity{
                 });
         //沉浸室
         //第一种
-        /*View decorView = getWindow().getDecorView();
+ /*       View decorView = getWindow().getDecorView();
         int option = View.SYSTEM_UI_FLAG_FULLSCREEN;
         decorView.setSystemUiVisibility(option);
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();*/
         //第二种
-       /* if (Build.VERSION.SDK_INT >= 21) {
+      /*  if (Build.VERSION.SDK_INT >= 21) {
             View decorView = getWindow().getDecorView();
             int option = View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
                     | View.SYSTEM_UI_FLAG_LAYOUT_STABLE;
