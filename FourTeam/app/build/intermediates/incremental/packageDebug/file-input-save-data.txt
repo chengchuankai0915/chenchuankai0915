@@ -1,14 +1,24 @@
 #Internal package file, do not edit.
+<<<<<<< HEAD
 #Sat Dec 16 11:58:17 CST 2017
+=======
+#Sat Dec 16 11:27:17 CST 2017
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 20.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 340.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+=======
+340.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+511.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_item_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 53.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 66.set=ANDROID_RESOURCE
 317.set=ANDROID_RESOURCE
 356.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 373.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_header_item_layout.xml
 203.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_search_url_text.xml
 86.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -38,12 +48,44 @@
 76.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 396.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_media_cancel_action.xml
 259.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+=======
+373.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my_bg.png
+203.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_action.xml
+86.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+389.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+236.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+8.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+407.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
+118.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+191.set=ANDROID_RESOURCE
+269.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_action_tombstone.xml
+270.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+100.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+416.set=ANDROID_RESOURCE
+43.set=ANDROID_RESOURCE
+133.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+483.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+304.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+330.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
+501.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libijksdl.so
+43.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+166.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+60.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_bg.xml
+217.set=ANDROID_RESOURCE
+192.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png
+363.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+76.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+396.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+259.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_toolbar.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 97.set=ANDROID_RESOURCE
 348.set=ANDROID_RESOURCE
 20.set=ANDROID_RESOURCE
 260.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 431.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 293.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 140.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
 123.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 490.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_focused_holo.png
@@ -56,12 +98,27 @@
 83.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png
 447.set=ANDROID_RESOURCE
 386.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+=======
+140.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v16\\notification_template_custom_big.xml
+123.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+490.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
+149.set=ANDROID_RESOURCE
+156.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+50.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+327.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+66.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+189.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+83.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+447.set=ANDROID_RESOURCE
+386.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_select_dialog_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 74.set=ANDROID_RESOURCE
 325.set=ANDROID_RESOURCE
 5.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
 99.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 248.set=ANDROID_RESOURCE
 250.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 421.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 126.set=ANDROID_RESOURCE
 501.set=ANDROID_RESOURCE
@@ -74,11 +131,26 @@
 424.set=ANDROID_RESOURCE
 163.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
 40.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher_round.png
+=======
+421.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+126.set=ANDROID_RESOURCE
+501.set=NATIVE_RESOURCE
+283.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+454.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+130.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_theme_description.png
+480.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png
+301.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bb.png
+14.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+424.set=ANDROID_RESOURCE
+163.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+40.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_dark_settings.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 379.set=ANDROID_RESOURCE
 317.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 51.set=ANDROID_RESOURCE
 302.set=ANDROID_RESOURCE
 179.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 73.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
 225.set=ANDROID_RESOURCE
 103.set=NATIVE_RESOURCE
@@ -100,17 +172,46 @@
 63.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png
 186.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\special_select.png
 96.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
+=======
+73.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png
+225.set=ANDROID_RESOURCE
+103.set=ANDROID_RESOURCE
+411.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+478.set=ANDROID_RESOURCE
+401.set=ANDROID_RESOURCE
+273.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+290.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png
+444.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+356.set=ANDROID_RESOURCE
+120.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+477.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+153.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png
+279.set=ANDROID_RESOURCE
+324.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\rvlist_item.xml
+202.set=ANDROID_RESOURCE
+37.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+157.set=ANDROID_RESOURCE
+63.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my_select.png
+186.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_voice_search_api_material.xml
+96.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 455.set=ANDROID_RESOURCE
 82.set=ANDROID_RESOURCE
 221.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 333.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 280.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_default.xml
 451.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_theme_play_arrow.png
+=======
+280.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libimagepipeline.so
+451.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 256.set=ANDROID_RESOURCE
 134.set=ANDROID_RESOURCE
 117.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\bg_blue.jpg
 467.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 314.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_seek_thumb.xml
 179.set=ANDROID_RESOURCE
 27.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -137,10 +238,40 @@
 165.set=ANDROID_RESOURCE
 371.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 201.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+=======
+314.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_pressed_holo.png
+179.set=ANDROID_RESOURCE
+27.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+176.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
+347.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_default.xml
+432.set=ANDROID_RESOURCE
+387.set=ANDROID_RESOURCE
+310.set=ANDROID_RESOURCE
+211.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+233.set=ANDROID_RESOURCE
+111.set=ANDROID_RESOURCE
+244.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+441.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_shrink_fade_out_from_bottom.xml
+107.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+486.set=ANDROID_RESOURCE
+474.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_icon_background.xml
+364.set=ANDROID_RESOURCE
+17.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+34.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_out.xml
+337.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_track_holo_dark.9.png
+508.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_time.xml
+287.set=ANDROID_RESOURCE
+199.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_material.xml
+210.set=ANDROID_RESOURCE
+165.set=ANDROID_RESOURCE
+371.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+201.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 234.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 463.set=ANDROID_RESOURCE
 405.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 90.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 341.set=NATIVE_RESOURCE
 267.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 114.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png
@@ -150,12 +281,24 @@
 497.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_time.xml
 142.set=ANDROID_RESOURCE
 57.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_bg.xml
+=======
+341.set=ANDROID_RESOURCE
+267.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+114.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
+464.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_spinner.xml
+264.set=ANDROID_RESOURCE
+24.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_action_dark_filter.png
+497.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
+142.set=ANDROID_RESOURCE
+57.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 187.set=ANDROID_RESOURCE
 361.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 440.set=ANDROID_RESOURCE
 395.set=ANDROID_RESOURCE
 39.set=ANDROID_RESOURCE
 394.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 241.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_primary_holo.9.png
 241.set=ANDROID_RESOURCE
 257.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -166,12 +309,25 @@
 308.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_holo_light.xml
 494.set=ANDROID_RESOURCE
 47.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_find.xml
+=======
+241.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_view_list_nav_layout.xml
+241.set=ANDROID_RESOURCE
+257.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+428.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+104.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+137.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_activity_chooser_view_list_item.xml
+487.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media_custom.xml
+308.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_media_action.xml
+494.set=ANDROID_RESOURCE
+47.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 372.set=ANDROID_RESOURCE
 16.set=ANDROID_RESOURCE
 81.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 295.set=ANDROID_RESOURCE
 384.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 3.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 231.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
 402.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
 264.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_action_tombstone.xml
@@ -179,28 +335,51 @@
 471.set=ANDROID_RESOURCE
 297.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
 127.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libijkffmpeg.so
+=======
+231.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\META-INF\\rxjava.properties
+402.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+264.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+418.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+471.set=ANDROID_RESOURCE
+297.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\collection_select.png
+127.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 272.set=ANDROID_RESOURCE
 161.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 150.set=ANDROID_RESOURCE
 4.set=ANDROID_RESOURCE
 71.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 195.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 391.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_theme_folder.png
 254.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_toolbar.xml
 425.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 47.set=ANDROID_RESOURCE
 287.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijkplayer.so
 458.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_btn_checkable.xml
+=======
+391.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_film_library.xml
+254.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+425.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+47.set=ANDROID_RESOURCE
+287.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
+458.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_indicator_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 172.set=ANDROID_RESOURCE
 151.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 322.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 184.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 380.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 381.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_04.xml
+=======
+381.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 24.set=ANDROID_RESOURCE
 0.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
 94.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 218.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 415.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 277.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
 448.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_light.xml
@@ -216,12 +395,30 @@
 225.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 505.set=ANDROID_RESOURCE
 438.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png
+=======
+415.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+277.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\collection.png
+448.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_theme_description.png
+78.set=ANDROID_RESOURCE
+312.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+329.set=ANDROID_RESOURCE
+191.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\special_select.png
+174.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+345.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+280.set=NATIVE_RESOURCE
+378.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+208.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+225.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+505.set=ANDROID_RESOURCE
+438.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 428.set=ANDROID_RESOURCE
 55.set=ANDROID_RESOURCE
 306.set=ANDROID_RESOURCE
 472.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 229.set=ANDROID_RESOURCE
 32.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 107.set=ANDROID_RESOURCE
 181.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_voice_search_api_material.xml
 335.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -235,25 +432,57 @@
 405.set=ANDROID_RESOURCE
 32.set=ANDROID_RESOURCE
 248.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+=======
+107.set=NATIVE_RESOURCE
+181.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\live_room_seek_bar_point.png
+335.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+352.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_expanded_menu_layout.xml
+506.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+180.set=ANDROID_RESOURCE
+197.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+91.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_seek_thumb.xml
+368.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+215.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+405.set=ANDROID_RESOURCE
+32.set=ANDROID_RESOURCE
+248.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_tile_bg.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 206.set=NATIVE_RESOURCE
 112.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 462.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 145.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 495.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 171.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_tick_mark_material.xml
 459.set=ANDROID_RESOURCE
 342.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+=======
+171.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_dialog_title_material.xml
+459.set=ANDROID_RESOURCE
+342.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png
+513.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\ijk_media_control.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 55.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 86.set=ANDROID_RESOURCE
 337.set=ANDROID_RESOURCE
 358.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 375.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
 205.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
 88.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 238.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png
 409.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_switch_thumb.xml
 138.set=ANDROID_RESOURCE
+=======
+375.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_theme_folder.png
+205.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libijkplayer.so
+88.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+238.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\bg_colorful.jpg
+409.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\search.png
+138.set=ANDROID_RESOURCE
+513.set=ANDROID_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 272.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 102.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 436.set=ANDROID_RESOURCE
@@ -262,6 +491,7 @@
 135.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 485.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 306.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 332.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png
 503.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_switch_track.xml
 45.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -273,6 +503,19 @@
 78.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 398.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
 228.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+=======
+332.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_disable_only_material_dark.xml
+503.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png
+45.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+168.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+237.set=ANDROID_RESOURCE
+194.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\gray_radius.xml
+365.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+115.set=ANDROID_RESOURCE
+78.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+398.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\special.png
+228.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 413.set=ANDROID_RESOURCE
 400.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 368.set=ANDROID_RESOURCE
@@ -282,6 +525,7 @@
 295.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 214.set=ANDROID_RESOURCE
 125.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 142.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
 492.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libijksdl.so
 169.set=ANDROID_RESOURCE
@@ -293,6 +537,19 @@
 85.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
 467.set=ANDROID_RESOURCE
 388.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
+=======
+142.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png
+492.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png
+169.set=ANDROID_RESOURCE
+158.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+52.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_lines_media.xml
+329.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+355.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+68.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+85.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_spinner.xml
+467.set=ANDROID_RESOURCE
+388.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 94.set=ANDROID_RESOURCE
 345.set=ANDROID_RESOURCE
 7.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png
@@ -302,6 +559,7 @@
 146.set=ANDROID_RESOURCE
 285.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 456.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 132.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
 482.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_theme_description.png
 303.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_01.xml
@@ -310,10 +568,21 @@
 165.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
 148.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\right.png
+=======
+132.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+482.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libijkplayer.so
+303.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+16.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+444.set=ANDROID_RESOURCE
+165.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+148.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+42.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher_round.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 399.set=ANDROID_RESOURCE
 319.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 71.set=ANDROID_RESOURCE
 322.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 75.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 245.set=ANDROID_RESOURCE
 123.set=ANDROID_RESOURCE
@@ -343,6 +612,37 @@
 420.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
 282.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
 453.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+=======
+75.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86_64\\libijksdl.so
+245.set=ANDROID_RESOURCE
+123.set=ANDROID_RESOURCE
+430.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+413.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+498.set=ANDROID_RESOURCE
+421.set=DEX
+292.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijkplayer.so
+275.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+446.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+376.set=ANDROID_RESOURCE
+122.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_edittext.xml
+479.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+155.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_colored_material.xml
+299.set=ANDROID_RESOURCE
+309.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+326.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
+222.set=ANDROID_RESOURCE
+39.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+188.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_edittext.xml
+65.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png
+100.set=ANDROID_RESOURCE
+98.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_material.xml
+475.set=ANDROID_RESOURCE
+223.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+353.set=ANDROID_RESOURCE
+420.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijksdl.so
+282.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_narrow.xml
+453.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 436.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 276.set=ANDROID_RESOURCE
 154.set=ANDROID_RESOURCE
@@ -350,16 +650,25 @@
 13.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_template_custom_big.xml
 469.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 316.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\rvlist_item.xml
 199.set=ANDROID_RESOURCE
 29.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 178.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
 349.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_template_icon_group.xml
+=======
+316.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_holo_light.xml
+199.set=ANDROID_RESOURCE
+29.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+178.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png
+349.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijkffmpeg.so
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 452.set=ANDROID_RESOURCE
 350.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 330.set=ANDROID_RESOURCE
 213.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 253.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 410.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_disabled_holo.png
 131.set=ANDROID_RESOURCE
 246.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -377,11 +686,32 @@
 373.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 203.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 220.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+=======
+410.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_textfield_search_material.xml
+131.set=NATIVE_RESOURCE
+246.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+443.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png
+176.set=ANDROID_RESOURCE
+109.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+476.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_indicator_material.xml
+384.set=ANDROID_RESOURCE
+36.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+19.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+28.set=ANDROID_RESOURCE
+339.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_theme_folder.png
+340.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+511.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+230.set=ANDROID_RESOURCE
+373.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+203.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+220.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_action_dark_filter.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 236.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 483.set=ANDROID_RESOURCE
 407.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 361.set=ANDROID_RESOURCE
 269.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 116.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 466.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_layout.xml
 284.set=ANDROID_RESOURCE
@@ -408,10 +738,40 @@
 140.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 490.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 49.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media.xml
+=======
+116.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
+466.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
+284.set=ANDROID_RESOURCE
+26.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher_round.png
+499.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_focused_holo.png
+162.set=ANDROID_RESOURCE
+59.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_bottom.xml
+509.set=ANDROID_RESOURCE
+330.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+501.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+60.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+192.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+363.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+460.set=ANDROID_RESOURCE
+210.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
+59.set=ANDROID_RESOURCE
+396.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+243.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png
+261.set=ANDROID_RESOURCE
+259.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+106.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png
+184.set=ANDROID_RESOURCE
+139.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+489.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\choiceness_fragment.xml
+140.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+490.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+49.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_find.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 409.set=ANDROID_RESOURCE
 392.set=ANDROID_RESOURCE
 36.set=ANDROID_RESOURCE
 50.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 370.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\found_select.png
 200.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libijkplayer.so
 83.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -423,10 +783,24 @@
 491.set=ANDROID_RESOURCE
 299.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png
 129.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_dark_aspect_ratio.png
+=======
+370.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+200.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png
+83.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+386.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+233.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_disable_only_material_light.xml
+404.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+266.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_02.xml
+491.set=ANDROID_RESOURCE
+299.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\notification_action_background.xml
+129.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_action_dark_settings.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 13.set=ANDROID_RESOURCE
 130.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 480.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 301.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 292.set=ANDROID_RESOURCE
 40.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 163.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -438,15 +812,33 @@
 67.set=ANDROID_RESOURCE
 318.set=ANDROID_RESOURCE
 289.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_mode_close_item_material.xml
+=======
+292.set=NATIVE_RESOURCE
+40.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+163.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+360.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_action_dark_aspect_ratio.png
+73.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+393.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+256.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_dark.xml
+427.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_text_cursor_material.xml
+67.set=ANDROID_RESOURCE
+318.set=ANDROID_RESOURCE
+289.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 290.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 120.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 119.set=ANDROID_RESOURCE
 1.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 192.set=NATIVE_RESOURCE
+=======
+192.set=ANDROID_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 153.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 324.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 63.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 186.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 80.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 417.set=ANDROID_RESOURCE
 383.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
@@ -502,15 +894,79 @@
 357.set=ANDROID_RESOURCE
 377.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_select_dialog_material.xml
 207.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\background_tab.xml
+=======
+80.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
+417.set=ANDROID_RESOURCE
+383.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+44.set=ANDROID_RESOURCE
+2.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_check_material.xml
+96.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+417.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+218.set=ANDROID_RESOURCE
+279.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my_set.png
+280.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+451.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+11.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+160.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\like.png
+98.set=ANDROID_RESOURCE
+349.set=NATIVE_RESOURCE
+314.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+21.set=ANDROID_RESOURCE
+176.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+70.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+347.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+227.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
+448.set=ANDROID_RESOURCE
+75.set=NATIVE_RESOURCE
+441.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+326.set=ANDROID_RESOURCE
+474.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+150.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png
+249.set=ANDROID_RESOURCE
+321.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
+34.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+127.set=ANDROID_RESOURCE
+183.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+337.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+508.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+502.set=ANDROID_RESOURCE
+199.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+93.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+217.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_simple_overlay_action_mode.xml
+425.set=ANDROID_RESOURCE
+52.set=ANDROID_RESOURCE
+303.set=ANDROID_RESOURCE
+226.set=ANDROID_RESOURCE
+104.set=ANDROID_RESOURCE
+114.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+464.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+311.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_01.xml
+24.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+497.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+173.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png
+479.set=ANDROID_RESOURCE
+344.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
+515.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_go_search_api_material.xml
+402.set=ANDROID_RESOURCE
+57.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+357.set=ANDROID_RESOURCE
+377.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+207.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_theme_play_arrow.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 203.set=ANDROID_RESOURCE
 158.set=ANDROID_RESOURCE
 241.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 104.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 471.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_exit.xml
+=======
+471.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_dark.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 456.set=ANDROID_RESOURCE
 83.set=ANDROID_RESOURCE
 334.set=ANDROID_RESOURCE
 137.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 31.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\black_background.xml
 487.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 308.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -522,12 +978,27 @@
 367.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_theme_folder.png
 135.set=ANDROID_RESOURCE
 231.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+31.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+487.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+308.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+334.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
+505.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
+47.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+257.set=ANDROID_RESOURCE
+196.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86_64\\libijkplayer.so
+367.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libijkplayer.so
+135.set=ANDROID_RESOURCE
+510.set=ANDROID_RESOURCE
+231.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 433.set=ANDROID_RESOURCE
 402.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 388.set=ANDROID_RESOURCE
 60.set=ANDROID_RESOURCE
 311.set=ANDROID_RESOURCE
 264.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 111.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_dark.xml
 461.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png
 297.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -563,11 +1034,49 @@
 91.set=ANDROID_RESOURCE
 342.set=ANDROID_RESOURCE
 77.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
+=======
+111.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+461.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_button_bar_material.xml
+297.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+234.set=ANDROID_RESOURCE
+127.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+21.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+144.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
+494.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png
+112.set=ANDROID_RESOURCE
+54.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+357.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+87.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+487.set=ANDROID_RESOURCE
+410.set=ANDROID_RESOURCE
+365.set=ANDROID_RESOURCE
+9.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
+391.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+288.set=ANDROID_RESOURCE
+211.set=NATIVE_RESOURCE
+254.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+271.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_grow_fade_in_from_bottom.xml
+425.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+166.set=ANDROID_RESOURCE
+101.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_small_material.xml
+287.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+458.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+134.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_spinner_textfield_background_material.xml
+484.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my.png
+305.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+464.set=ANDROID_RESOURCE
+44.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\right.png
+167.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_item.xml
+91.set=ANDROID_RESOURCE
+342.set=ANDROID_RESOURCE
+77.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_up_container.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 265.set=ANDROID_RESOURCE
 381.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.set=ANDROID_RESOURCE
 0.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 188.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 261.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_02.xml
 432.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_shrink_fade_out_from_bottom.xml
 415.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -596,6 +1105,36 @@
 15.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png
 147.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background.xml
 318.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
+=======
+261.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png
+432.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\item_special.xml
+415.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+441.set=ANDROID_RESOURCE
+294.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_mode_close_item_material.xml
+277.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+448.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+396.set=ANDROID_RESOURCE
+124.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png
+157.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\comment_item.xml
+328.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+242.set=ANDROID_RESOURCE
+67.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_bottom.xml
+120.set=ANDROID_RESOURCE
+191.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+495.set=ANDROID_RESOURCE
+225.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+373.set=ANDROID_RESOURCE
+251.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_track_material.xml
+422.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my_bg_colorful.png
+17.set=ANDROID_RESOURCE
+284.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_theme_description.png
+455.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_action_tombstone.xml
+438.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+296.set=ANDROID_RESOURCE
+15.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_lishi.xml
+147.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+318.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 472.set=ANDROID_RESOURCE
 181.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 352.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -603,6 +1142,7 @@
 91.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 215.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 273.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 412.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
 151.set=ANDROID_RESOURCE
 248.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -628,11 +1168,40 @@
 118.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_edittext.xml
 468.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png
 28.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+=======
+412.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png
+151.set=ANDROID_RESOURCE
+248.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+274.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png
+5.set=ANDROID_RESOURCE
+445.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png
+196.set=NATIVE_RESOURCE
+478.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_icon.xml
+38.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_switch_thumb_material.xml
+48.set=ANDROID_RESOURCE
+171.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+342.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+513.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+250.set=ANDROID_RESOURCE
+375.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+205.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+222.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\black_trans_bg.xml
+173.set=ANDROID_RESOURCE
+238.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+409.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+435.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\live_room_audio.png
+381.set=ANDROID_RESOURCE
+25.set=ANDROID_RESOURCE
+118.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png
+468.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+28.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_clear_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 332.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 503.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 194.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 365.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 480.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 212.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_simple_overlay_action_mode.xml
 79.set=ANDROID_RESOURCE
 398.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -673,24 +1242,81 @@
 395.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
 258.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\comment_fragment.xml
 429.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
+=======
+212.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\background_tab.xml
+79.set=ANDROID_RESOURCE
+398.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+228.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+245.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_action_bar_item_background_material.xml
+281.set=ANDROID_RESOURCE
+108.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+506.set=ANDROID_RESOURCE
+18.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_theme_play_arrow.png
+142.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+492.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+429.set=ANDROID_RESOURCE
+510.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_thumb_material.xml
+52.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+56.set=ANDROID_RESOURCE
+307.set=ANDROID_RESOURCE
+372.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_dark.xml
+355.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+202.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_btn_colored_borderless_text_material.xml
+85.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+388.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+235.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\grid_item.xml
+7.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+406.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+108.set=ANDROID_RESOURCE
+181.set=ANDROID_RESOURCE
+268.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_theme_folder.png
+406.set=ANDROID_RESOURCE
+33.set=ANDROID_RESOURCE
+132.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+482.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+303.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+500.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
+42.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+165.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+207.set=ANDROID_RESOURCE
+362.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
+75.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+395.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\white_radius.xml
+258.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
+429.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 87.set=ANDROID_RESOURCE
 338.set=ANDROID_RESOURCE
 10.set=ANDROID_RESOURCE
 430.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 292.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 122.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 139.set=ANDROID_RESOURCE
+=======
+292.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+122.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+139.set=ANDROID_RESOURCE
+514.set=ANDROID_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 155.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 326.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 65.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 188.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 82.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_spinner.xml
 437.set=NATIVE_RESOURCE
 385.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_theme_play_arrow.png
+=======
+82.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml
+437.set=ANDROID_RESOURCE
+385.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 64.set=ANDROID_RESOURCE
 315.set=ANDROID_RESOURCE
 4.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
 98.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 419.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
 238.set=ANDROID_RESOURCE
 420.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -701,12 +1327,29 @@
 13.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 414.set=ANDROID_RESOURCE
 162.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+=======
+419.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_disabled_holo.png
+238.set=ANDROID_RESOURCE
+420.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+116.set=ANDROID_RESOURCE
+282.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+453.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+300.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\fancy.png
+13.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+414.set=ANDROID_RESOURCE
+162.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_btn_colored_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 369.set=ANDROID_RESOURCE
 316.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 41.set=ANDROID_RESOURCE
 178.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 72.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86_64\\libijksdl.so
 349.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+72.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
+349.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 215.set=ANDROID_RESOURCE
 410.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 468.set=ANDROID_RESOURCE
@@ -714,6 +1357,7 @@
 443.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 346.set=ANDROID_RESOURCE
 476.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 152.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
 269.set=ANDROID_RESOURCE
 323.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
@@ -746,10 +1390,45 @@
 300.set=ANDROID_RESOURCE
 379.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
 209.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_action_dark_settings.png
+=======
+152.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher_round.png
+269.set=ANDROID_RESOURCE
+323.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_seek_thumb.xml
+36.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+147.set=ANDROID_RESOURCE
+62.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png
+185.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+339.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+95.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png
+219.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png
+445.set=ANDROID_RESOURCE
+72.set=ANDROID_RESOURCE
+220.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+323.set=ANDROID_RESOURCE
+450.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_dark_filter.png
+246.set=ANDROID_RESOURCE
+124.set=ANDROID_RESOURCE
+116.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+10.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png
+466.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+313.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+26.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+499.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+175.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_tick_mark_material.xml
+499.set=ANDROID_RESOURCE
+346.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_top_material.xml
+422.set=ANDROID_RESOURCE
+59.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+377.set=ANDROID_RESOURCE
+300.set=ANDROID_RESOURCE
+379.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\found_select.png
+209.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libimagepipeline.so
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 210.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 223.set=ANDROID_RESOURCE
 101.set=ANDROID_RESOURCE
 243.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 440.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml
 106.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 476.set=ANDROID_RESOURCE
@@ -768,12 +1447,34 @@
 9.set=ANDROID_RESOURCE
 370.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 200.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+=======
+440.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+106.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+476.set=ANDROID_RESOURCE
+473.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mine_fragment.xml
+354.set=ANDROID_RESOURCE
+139.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+33.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\black_background.xml
+489.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+336.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_xiang_qing.xml
+507.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_btn_checkable.xml
+49.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+277.set=ANDROID_RESOURCE
+198.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_title_material.xml
+200.set=ANDROID_RESOURCE
+369.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media.xml
+155.set=ANDROID_RESOURCE
+9.set=ANDROID_RESOURCE
+370.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+200.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 233.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 453.set=ANDROID_RESOURCE
 404.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 80.set=ANDROID_RESOURCE
 331.set=ANDROID_RESOURCE
 266.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 113.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png
 463.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v22\\abc_alert_dialog_button_bar_material.xml
 299.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -787,11 +1488,27 @@
 177.set=ANDROID_RESOURCE
 359.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libijkplayer.so
 89.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_seek_thumb.xml
+=======
+113.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+463.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_in.xml
+299.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+254.set=ANDROID_RESOURCE
+129.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+23.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+146.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+496.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_custom.xml
+132.set=ANDROID_RESOURCE
+56.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+177.set=ANDROID_RESOURCE
+359.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\back.png
+89.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 360.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 430.set=ANDROID_RESOURCE
 385.set=ANDROID_RESOURCE
 29.set=ANDROID_RESOURCE
 393.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 240.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_action_bar_item_background_material.xml
 231.set=ANDROID_RESOURCE
 256.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -806,10 +1523,27 @@
 169.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png
 362.set=ANDROID_RESOURCE
 79.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml
+=======
+240.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_checkbox.xml
+231.set=JAVA_RESOURCE
+256.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+427.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+103.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_bar_title_item.xml
+289.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+136.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+486.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_action_dark_filter.png
+307.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+484.set=ANDROID_RESOURCE
+46.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png
+169.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+362.set=ANDROID_RESOURCE
+79.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_bg_low.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 80.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 285.set=ANDROID_RESOURCE
 383.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 163.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 230.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\grid_item.xml
 2.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 401.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_textfield_search_material.xml
@@ -842,10 +1576,45 @@
 183.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 370.set=ANDROID_RESOURCE
 380.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml
+=======
+230.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+2.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+401.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+263.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_light.xml
+434.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_internal_bg.xml
+417.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+461.set=ANDROID_RESOURCE
+279.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+296.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+126.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png
+159.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+262.set=ANDROID_RESOURCE
+160.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+69.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\cc.png
+140.set=ANDROID_RESOURCE
+70.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+185.set=ANDROID_RESOURCE
+390.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_04.xml
+227.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+393.set=ANDROID_RESOURCE
+253.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+424.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+37.set=ANDROID_RESOURCE
+286.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
+457.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_material_light.xml
+149.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
+150.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+321.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+492.set=ANDROID_RESOURCE
+183.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+370.set=ANDROID_RESOURCE
+380.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\jianjie_fragment.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 14.set=ANDROID_RESOURCE
 93.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 217.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 293.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 414.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_singlechoice_material.xml
 276.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_narrow.xml
 447.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\find_fragment.xml
@@ -879,24 +1648,76 @@
 99.set=ANDROID_RESOURCE
 22.set=ANDROID_RESOURCE
 247.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+=======
+414.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png
+276.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\special_fragment.xml
+447.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png
+68.set=ANDROID_RESOURCE
+319.set=ANDROID_RESOURCE
+311.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+190.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png
+173.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+344.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+515.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+270.set=ANDROID_RESOURCE
+377.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+207.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+224.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png
+2.set=ANDROID_RESOURCE
+193.set=ANDROID_RESOURCE
+437.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
+418.set=ANDROID_RESOURCE
+45.set=NATIVE_RESOURCE
+471.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+219.set=ANDROID_RESOURCE
+31.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+180.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+334.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+351.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png
+505.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+170.set=ANDROID_RESOURCE
+196.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+90.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+367.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+214.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_action_dark_settings.png
+99.set=ANDROID_RESOURCE
+22.set=ANDROID_RESOURCE
+247.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_view.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 111.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 461.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 144.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 21.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 494.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 170.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
 449.set=ANDROID_RESOURCE
 341.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijkffmpeg.so
+=======
+170.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+449.set=ANDROID_RESOURCE
+341.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
+512.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_switch_track.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 54.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 76.set=ANDROID_RESOURCE
 327.set=ANDROID_RESOURCE
 357.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 374.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
 204.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libimagepipeline.so
 87.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 237.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
 9.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 408.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+=======
+374.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png
+204.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+87.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+237.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_vector_test.xml
+9.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+408.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 128.set=ANDROID_RESOURCE
 503.set=ANDROID_RESOURCE
 271.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -907,6 +1728,7 @@
 134.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 484.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 305.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 331.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_text_material.xml
 502.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_thumb_material.xml
 44.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -918,12 +1740,26 @@
 105.set=NATIVE_RESOURCE
 77.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 397.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+=======
+331.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
+502.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_light.xml
+44.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+167.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+61.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86_64\\libimagepipeline.so
+227.set=ANDROID_RESOURCE
+193.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_mode_bar.xml
+364.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+105.set=ANDROID_RESOURCE
+77.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+397.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_radio.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 403.set=ANDROID_RESOURCE
 358.set=ANDROID_RESOURCE
 30.set=ANDROID_RESOURCE
 261.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 432.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 294.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 204.set=NATIVE_RESOURCE
 141.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
 124.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -937,6 +1773,21 @@
 84.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
 457.set=ANDROID_RESOURCE
 387.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\white_radius.xml
+=======
+204.set=ANDROID_RESOURCE
+141.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
+124.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+491.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_theme_description.png
+159.set=ANDROID_RESOURCE
+157.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+51.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media.xml
+328.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+354.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png
+67.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+84.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_action_dark_settings.png
+457.set=ANDROID_RESOURCE
+387.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 84.set=ANDROID_RESOURCE
 335.set=ANDROID_RESOURCE
 6.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png
@@ -944,6 +1795,7 @@
 251.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 422.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 136.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 284.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 455.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 131.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_enter.xml
@@ -979,23 +1831,74 @@
 64.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_bottom.xml
 187.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png
 97.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_small_material.xml
+=======
+511.set=ANDROID_RESOURCE
+284.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+455.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+131.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libijkffmpeg.so
+481.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_exit.xml
+302.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_theme_folder.png
+15.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+434.set=ANDROID_RESOURCE
+164.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
+147.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+41.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+389.set=ANDROID_RESOURCE
+318.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+61.set=NATIVE_RESOURCE
+312.set=ANDROID_RESOURCE
+74.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_simple.xml
+235.set=ANDROID_RESOURCE
+113.set=ANDROID_RESOURCE
+412.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+488.set=ANDROID_RESOURCE
+411.set=ANDROID_RESOURCE
+274.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+291.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+445.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+366.set=ANDROID_RESOURCE
+121.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_search_api_material.xml
+478.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+154.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+289.set=ANDROID_RESOURCE
+325.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_secondary_holo.9.png
+212.set=ANDROID_RESOURCE
+38.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+167.set=ANDROID_RESOURCE
+64.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png
+187.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png
+97.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 465.set=ANDROID_RESOURCE
 92.set=ANDROID_RESOURCE
 222.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 343.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 281.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png
 452.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_alert_dialog_button_bar_material.xml
+=======
+281.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+452.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 435.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 266.set=ANDROID_RESOURCE
 144.set=ANDROID_RESOURCE
 118.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_default_mtrl_shape.xml
 468.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 315.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_menu_overflow_material.xml
 189.set=ANDROID_RESOURCE
 28.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 177.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
 348.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\support_simple_spinner_dropdown_item.xml
+=======
+315.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_dark_aspect_ratio.png
+189.set=ANDROID_RESOURCE
+28.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+177.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
+348.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 442.set=ANDROID_RESOURCE
 397.set=ANDROID_RESOURCE
 320.set=ANDROID_RESOURCE
@@ -1003,6 +1906,7 @@
 243.set=ANDROID_RESOURCE
 121.set=ANDROID_RESOURCE
 245.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 442.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
 108.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 496.set=ANDROID_RESOURCE
@@ -1013,10 +1917,25 @@
 18.set=ANDROID_RESOURCE
 338.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_cab_background_top_material.xml
 297.set=ANDROID_RESOURCE
+=======
+442.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
+108.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+496.set=ANDROID_RESOURCE
+475.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_layout.xml
+374.set=ANDROID_RESOURCE
+18.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+35.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_light.xml
+18.set=ANDROID_RESOURCE
+338.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_text_material.xml
+509.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml
+297.set=ANDROID_RESOURCE
+510.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 220.set=ANDROID_RESOURCE
 372.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 202.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 235.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 473.set=NATIVE_RESOURCE
 406.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 351.set=ANDROID_RESOURCE
@@ -1030,11 +1949,27 @@
 58.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_bottom.xml
 6.set=ANDROID_RESOURCE
 197.set=ANDROID_RESOURCE
+=======
+473.set=ANDROID_RESOURCE
+406.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+351.set=ANDROID_RESOURCE
+268.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+115.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_item_background_holo_dark.xml
+465.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png
+274.set=ANDROID_RESOURCE
+25.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_ab_back_material.xml
+498.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
+152.set=ANDROID_RESOURCE
+58.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_action.xml
+6.set=ANDROID_RESOURCE
+197.set=NATIVE_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 500.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 362.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 450.set=ANDROID_RESOURCE
 49.set=ANDROID_RESOURCE
 395.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 242.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_view.xml
 251.set=ANDROID_RESOURCE
 258.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1044,11 +1979,23 @@
 138.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png
 488.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
 48.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+=======
+242.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+251.set=ANDROID_RESOURCE
+258.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+429.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+105.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png
+174.set=ANDROID_RESOURCE
+138.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png
+488.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+48.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 382.set=ANDROID_RESOURCE
 26.set=ANDROID_RESOURCE
 82.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 385.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 4.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 232.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_vector_test.xml
 403.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png
 265.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_action_dark_aspect_ratio.png
@@ -1056,10 +2003,20 @@
 481.set=ANDROID_RESOURCE
 298.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
 128.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+=======
+232.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png
+403.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
+265.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+419.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+481.set=ANDROID_RESOURCE
+298.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_in_top.xml
+128.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\fancy_select.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 300.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 282.set=ANDROID_RESOURCE
 162.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 160.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 72.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 392.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
 255.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png
@@ -1069,6 +2026,18 @@
 288.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png
 459.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png
 109.set=ANDROID_RESOURCE
+=======
+72.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+507.set=ANDROID_RESOURCE
+392.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
+255.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+426.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png
+57.set=ANDROID_RESOURCE
+308.set=ANDROID_RESOURCE
+288.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher_round.png
+459.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_theme_play_arrow.png
+109.set=NATIVE_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 182.set=ANDROID_RESOURCE
 152.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 323.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1076,15 +2045,26 @@
 62.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 407.set=ANDROID_RESOURCE
 390.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 382.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_film_library.xml
+=======
+382.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_header_item_layout.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 34.set=ANDROID_RESOURCE
 1.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
 95.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 219.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 416.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png
 208.set=ANDROID_RESOURCE
 278.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
 449.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_indicator_material.xml
+=======
+416.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png
+208.set=ANDROID_RESOURCE
+278.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_small_material.xml
+449.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 450.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 10.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 88.set=ANDROID_RESOURCE
@@ -1095,13 +2075,21 @@
 346.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 290.set=ANDROID_RESOURCE
 379.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 226.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\META-INF\\rxjava.properties
 209.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_theme_description.png
+=======
+226.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v23\\abc_control_background_material.xml
+209.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+515.set=ANDROID_RESOURCE
+439.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher_round.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 438.set=ANDROID_RESOURCE
 65.set=ANDROID_RESOURCE
 440.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 316.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 473.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 320.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png
 239.set=ANDROID_RESOURCE
@@ -1159,6 +2147,67 @@
 500.set=ANDROID_RESOURCE
 399.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png
 229.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\scrubber_control_selector_holo.xml
+=======
+473.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+320.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+239.set=ANDROID_RESOURCE
+33.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+117.set=ANDROID_RESOURCE
+182.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+336.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+353.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
+507.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+190.set=ANDROID_RESOURCE
+198.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+92.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png
+369.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+216.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+415.set=ANDROID_RESOURCE
+42.set=ANDROID_RESOURCE
+249.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+216.set=ANDROID_RESOURCE
+113.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+463.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+310.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+146.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+23.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+496.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+172.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\tab_item.xml
+469.set=ANDROID_RESOURCE
+343.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png
+514.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+56.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+96.set=ANDROID_RESOURCE
+347.set=ANDROID_RESOURCE
+359.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+376.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png
+206.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libijksdl.so
+89.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+239.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_radio_material.xml
+148.set=ANDROID_RESOURCE
+240.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+103.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+470.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png
+446.set=NATIVE_RESOURCE
+73.set=ANDROID_RESOURCE
+324.set=ANDROID_RESOURCE
+136.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+30.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png
+486.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+307.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+333.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tab_03.xml
+504.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_dark_filter.png
+169.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+46.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+247.set=ANDROID_RESOURCE
+195.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+366.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
+125.set=ANDROID_RESOURCE
+79.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+500.set=ANDROID_RESOURCE
+399.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_popup_menu_item_layout.xml
+229.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 230.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 423.set=ANDROID_RESOURCE
 401.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1167,6 +2216,7 @@
 301.set=ANDROID_RESOURCE
 263.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 434.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 110.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png
 460.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_multichoice_material.xml
 296.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1184,10 +2234,30 @@
 477.set=ANDROID_RESOURCE
 400.set=ANDROID_RESOURCE
 389.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\special.png
+=======
+110.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
+460.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png
+296.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+224.set=ANDROID_RESOURCE
+126.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+20.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png
+143.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png
+493.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_icon_group.xml
+102.set=ANDROID_RESOURCE
+159.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+53.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png
+356.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\support_simple_spinner_dropdown_item.xml
+69.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+86.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png
+477.set=ANDROID_RESOURCE
+400.set=ANDROID_RESOURCE
+389.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 355.set=ANDROID_RESOURCE
 8.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png
 390.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 278.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 201.set=NATIVE_RESOURCE
 270.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png
 253.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1206,10 +2276,31 @@
 81.set=ANDROID_RESOURCE
 332.set=ANDROID_RESOURCE
 76.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_bg_low.xml
+=======
+201.set=ANDROID_RESOURCE
+270.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\ic_action_dark_aspect_ratio.png
+253.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+424.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+156.set=ANDROID_RESOURCE
+100.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
+286.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+457.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+133.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_action_dark_aspect_ratio.png
+483.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png
+304.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_part_chronometer.xml
+454.set=ANDROID_RESOURCE
+166.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png
+149.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+43.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+81.set=ANDROID_RESOURCE
+332.set=ANDROID_RESOURCE
+76.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 255.set=ANDROID_RESOURCE
 380.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 133.set=ANDROID_RESOURCE
 178.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 260.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png
 431.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
 414.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1240,6 +2331,38 @@
 14.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_content_include.xml
 317.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_secondary_holo.9.png
 179.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+=======
+260.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml
+431.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png
+414.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+431.set=ANDROID_RESOURCE
+293.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png
+276.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+447.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+386.set=ANDROID_RESOURCE
+123.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_material.xml
+156.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png
+327.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_edit_text_material.xml
+232.set=ANDROID_RESOURCE
+189.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_theme_description.png
+66.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\abc_screen_toolbar.xml
+110.set=ANDROID_RESOURCE
+190.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+99.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\aa.png
+485.set=ANDROID_RESOURCE
+224.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+363.set=ANDROID_RESOURCE
+250.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+421.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+283.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+454.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png
+437.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+286.set=ANDROID_RESOURCE
+164.set=ANDROID_RESOURCE
+14.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_content_include.xml
+317.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_theme_play_arrow.png
+179.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\find_adapter.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 462.set=ANDROID_RESOURCE
 180.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 351.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1247,6 +2370,7 @@
 90.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 214.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 263.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 411.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libijksdl.so
 141.set=ANDROID_RESOURCE
 247.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1263,11 +2387,31 @@
 374.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 204.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 221.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v23\\abc_control_background_material.xml
+=======
+411.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_top.xml
+141.set=ANDROID_RESOURCE
+247.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+273.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+444.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+186.set=ANDROID_RESOURCE
+477.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+394.set=ANDROID_RESOURCE
+37.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+38.set=ANDROID_RESOURCE
+170.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+341.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+512.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+240.set=ANDROID_RESOURCE
+374.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+204.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+221.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\animator\\scale_with_alpha.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 237.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.set=ANDROID_RESOURCE
 408.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 371.set=ANDROID_RESOURCE
 15.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 117.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_search_api_material.xml
 467.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_indicator_material.xml
 294.set=ANDROID_RESOURCE
@@ -1284,6 +2428,24 @@
 244.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
 271.set=ANDROID_RESOURCE
 107.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+=======
+117.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png
+467.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_multichoice_material.xml
+294.set=ANDROID_RESOURCE
+27.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml
+331.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+502.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+61.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+193.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+364.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+470.set=ANDROID_RESOURCE
+211.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86_64\\libijkffmpeg.so
+69.set=ANDROID_RESOURCE
+397.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+244.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_btn_colored_text_material.xml
+271.set=ANDROID_RESOURCE
+107.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libijkffmpeg.so
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 3.set=ANDROID_RESOURCE
 194.set=ANDROID_RESOURCE
 17.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_dropdown_item_icons_2line.xml
@@ -1292,6 +2454,7 @@
 419.set=ANDROID_RESOURCE
 46.set=ANDROID_RESOURCE
 51.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 371.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\jianjie_fragment.xml
 354.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 201.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libijksdl.so
@@ -1304,16 +2467,39 @@
 267.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_color_highlight_material.xml
 23.set=ANDROID_RESOURCE
 131.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+=======
+371.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
+354.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+201.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_action_menu_item_layout.xml
+84.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+387.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+234.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\scrubber_control_selector_holo.xml
+6.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+405.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_media_cancel_action.xml
+171.set=ANDROID_RESOURCE
+267.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_borderless_material.xml
+23.set=ANDROID_RESOURCE
+131.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 481.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 302.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 41.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 164.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 361.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media.xml
 74.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 394.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
 count=507
 257.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_secondary_text_material_light.xml
 428.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png
+=======
+361.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png
+74.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+394.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_theme_play_arrow.png
+count=516
+257.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml
+428.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\switch_thumb_material_dark.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 77.set=ANDROID_RESOURCE
 328.set=ANDROID_RESOURCE
 291.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1324,20 +2510,31 @@ count=507
 325.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 64.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 187.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 81.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_action_dark_settings.png
 427.set=ANDROID_RESOURCE
 384.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+=======
+81.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png
+427.set=ANDROID_RESOURCE
+384.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 54.set=ANDROID_RESOURCE
 305.set=ANDROID_RESOURCE
 3.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_action_dark_aspect_ratio.png
 97.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 418.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_text_cursor_material.xml
+=======
+418.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_switch_thumb.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 228.set=ANDROID_RESOURCE
 106.set=ANDROID_RESOURCE
 281.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 452.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 404.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 161.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png
 359.set=NATIVE_RESOURCE
 315.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1346,11 +2543,22 @@ count=507
 71.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_screen_simple.xml
 348.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 205.set=ANDROID_RESOURCE
+=======
+161.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\bottom_tab_bar.xml
+359.set=ANDROID_RESOURCE
+315.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+31.set=ANDROID_RESOURCE
+177.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+71.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+348.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+205.set=NATIVE_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 458.set=ANDROID_RESOURCE
 85.set=ANDROID_RESOURCE
 442.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 336.set=ANDROID_RESOURCE
 475.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 151.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_colored_material.xml
 259.set=ANDROID_RESOURCE
 322.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml
@@ -1360,6 +2568,19 @@ count=507
 338.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 94.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
 218.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png
+=======
+151.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_dialog_material_background.xml
+259.set=ANDROID_RESOURCE
+322.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_menu_overflow_material.xml
+35.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+137.set=ANDROID_RESOURCE
+184.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png
+338.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+509.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+512.set=ANDROID_RESOURCE
+94.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png
+218.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 435.set=ANDROID_RESOURCE
 62.set=ANDROID_RESOURCE
 313.set=ANDROID_RESOURCE
@@ -1367,6 +2588,7 @@ count=507
 114.set=ANDROID_RESOURCE
 115.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 465.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 312.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
 25.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 498.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1383,10 +2605,29 @@ count=507
 242.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 105.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
 472.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png
+=======
+312.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_tab_indicator_material.xml
+25.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+498.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+174.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_light.xml
+489.set=ANDROID_RESOURCE
+345.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
+412.set=ANDROID_RESOURCE
+58.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+367.set=NATIVE_RESOURCE
+378.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\my.png
+208.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_search_url_text.xml
+213.set=ANDROID_RESOURCE
+168.set=ANDROID_RESOURCE
+242.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+105.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+472.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v22\\abc_alert_dialog_button_bar_material.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 466.set=ANDROID_RESOURCE
 93.set=ANDROID_RESOURCE
 344.set=ANDROID_RESOURCE
 138.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 32.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_fade_out.xml
 488.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 335.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png
@@ -1395,6 +2636,16 @@ count=507
 267.set=ANDROID_RESOURCE
 197.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_btn_colored_borderless_text_material.xml
 368.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+=======
+32.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png
+488.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+335.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png
+506.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png
+48.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+267.set=ANDROID_RESOURCE
+197.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\arm64-v8a\\libimagepipeline.so
+368.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 145.set=ANDROID_RESOURCE
 232.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 443.set=ANDROID_RESOURCE
@@ -1403,6 +2654,7 @@ count=507
 70.set=ANDROID_RESOURCE
 321.set=ANDROID_RESOURCE
 265.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 112.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png
 462.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_dark.xml
 298.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1417,12 +2669,29 @@ count=507
 88.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png
 497.set=ANDROID_RESOURCE
 420.set=ANDROID_RESOURCE
+=======
+112.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_dark_settings.png
+462.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+298.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+244.set=ANDROID_RESOURCE
+128.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+22.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\banner.xml
+145.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png
+495.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png
+122.set=ANDROID_RESOURCE
+55.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png
+358.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_template_icon_group.xml
+88.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png
+497.set=ANDROID_RESOURCE
+420.set=NATIVE_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 375.set=ANDROID_RESOURCE
 19.set=ANDROID_RESOURCE
 392.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 298.set=ANDROID_RESOURCE
 221.set=ANDROID_RESOURCE
 255.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 272.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\collection.png
 426.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 102.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png
@@ -1470,12 +2739,62 @@ count=507
 319.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_edit_text_material.xml
 320.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 482.set=ANDROID_RESOURCE
+=======
+272.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_color_highlight_material.xml
+426.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+102.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_switch_track.xml
+288.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+459.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+135.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_popup_enter.xml
+485.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png
+306.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png
+474.set=ANDROID_RESOURCE
+45.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libimagepipeline.so
+168.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png
+352.set=ANDROID_RESOURCE
+78.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png
+275.set=ANDROID_RESOURCE
+382.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+153.set=ANDROID_RESOURCE
+1.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+400.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_theme_folder.png
+7.set=ANDROID_RESOURCE
+198.set=ANDROID_RESOURCE
+262.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\comment_fragment.xml
+433.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+416.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+451.set=ANDROID_RESOURCE
+295.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_control_normal_holo.png
+278.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+449.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+125.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png
+158.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png
+329.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
+252.set=ANDROID_RESOURCE
+68.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_layout.xml
+130.set=ANDROID_RESOURCE
+175.set=ANDROID_RESOURCE
+226.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+383.set=ANDROID_RESOURCE
+252.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png
+423.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\select_dialog_singlechoice_material.xml
+27.set=ANDROID_RESOURCE
+285.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_default.xml
+456.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\find_fragment.xml
+439.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+16.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg_blue.jpg
+148.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\found.png
+319.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_activity_chooser_view.xml
+320.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+482.set=NATIVE_RESOURCE
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 182.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 353.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 360.set=ANDROID_RESOURCE
 92.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 216.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 283.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 413.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\my_bg_colorful.png
 161.set=ANDROID_RESOURCE
 249.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -1484,11 +2803,23 @@ count=507
 479.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media_custom.xml
 309.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
 39.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+=======
+413.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_switch_thumb.xml
+161.set=ANDROID_RESOURCE
+249.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+275.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png
+446.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libijkffmpeg.so
+508.set=ANDROID_RESOURCE
+479.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png
+309.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\dd.png
+39.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_list_selector_holo_dark.xml
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 58.set=ANDROID_RESOURCE
 309.set=ANDROID_RESOURCE
 310.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 172.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 343.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 260.set=ANDROID_RESOURCE
 376.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 206.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
@@ -1507,18 +2838,52 @@ count=507
 30.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 333.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 350.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png
+=======
+514.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+260.set=ANDROID_RESOURCE
+376.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+206.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+223.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png
+183.set=ANDROID_RESOURCE
+239.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+436.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png
+408.set=ANDROID_RESOURCE
+391.set=ANDROID_RESOURCE
+35.set=ANDROID_RESOURCE
+119.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png
+469.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_btn_checkable.xml
+470.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+29.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png
+209.set=NATIVE_RESOURCE
+30.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+333.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+350.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 504.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 195.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 366.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 490.set=ANDROID_RESOURCE
+<<<<<<< HEAD
 213.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+=======
+213.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294
 89.set=ANDROID_RESOURCE
 399.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 12.set=ANDROID_RESOURCE
 229.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+<<<<<<< HEAD
 246.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_track_material.xml
 291.set=ANDROID_RESOURCE
 109.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
 110.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 460.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
 19.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png
+=======
+246.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\scrubber_primary_holo.9.png
+291.set=ANDROID_RESOURCE
+109.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libijksdl.so
+110.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+460.base=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_
+19.file=D\:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xhdpi-v4\\bottom_bg.png
+>>>>>>> beff5e788cc2f24a6fd41f7593d5e71afde33294

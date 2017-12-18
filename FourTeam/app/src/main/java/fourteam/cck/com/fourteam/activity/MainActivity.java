@@ -6,8 +6,17 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.TextView;
 
+import com.facebook.drawee.view.SimpleDraweeView;
 import com.hjm.bottomtabbar.BottomTabBar;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
 import fourteam.cck.com.fourteam.fragment.ChoicenessFragment;
@@ -16,11 +25,17 @@ import fourteam.cck.com.fourteam.fragment.MineFragment;
 import fourteam.cck.com.fourteam.fragment.SpecialFragment;
 
 public class MainActivity extends AppCompatActivity{
+
+    private List<String> list;
+    private List<Integer> integerList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //加载布局
         setContentView(R.layout.activity_main);
+
+
+
         //初始化组件
         BottomTabBar btb= (BottomTabBar) findViewById(R.id.btb);
         btb.init(getSupportFragmentManager())
@@ -69,9 +84,69 @@ public class MainActivity extends AppCompatActivity{
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
 
+        initW();
 
     }
 
+    private void initW() {
+        SimpleDraweeView ce_sdv = (SimpleDraweeView) findViewById(R.id.ce_sdv);
+        ce_sdv.setImageURI("http://f.hiphotos.baidu.com/image/pic/item/0df3d7ca7bcb0a46f7988bf36263f6246a60af45.jpg");
 
+        TextView ce_tv = (TextView) findViewById(R.id.ce_tv);
+        ce_tv.setText("微影"+" , "+"微一下");
+        ListView listView = (ListView) findViewById(R.id.listview);
+        list=new ArrayList<>();
+        integerList=new ArrayList<>();
+        list.add("我的收藏");
+        list.add("我的下载");
+        list.add("福利");
+        list.add("分享");
+        list.add("建议反馈");
+        list.add("设置");
+
+        integerList.add(R.drawable.aa);
+        integerList.add(R.drawable.bb);
+        integerList.add(R.drawable.cc);
+        integerList.add(R.drawable.dd);
+        integerList.add(R.drawable.my);
+        integerList.add(R.drawable.collection_select);
+
+        listView.setAdapter(new MyAdapter());
+    }
+
+    public class MyAdapter extends BaseAdapter {
+        /*private List<String> list;
+        private Context context;
+
+        public MyAdapter(List<String> list, Context context) {
+            this.list = list;
+            this.context = context;
+        }*/
+
+        @Override
+        public int getCount() {
+            return list.size();
+        }
+
+        @Override
+        public Object getItem(int i) {
+            return list.get(i);
+        }
+
+        @Override
+        public long getItemId(int i) {
+            return i;
+        }
+
+        @Override
+        public View getView(int i, View view, ViewGroup viewGroup) {
+            View v = View.inflate(MainActivity.this, R.layout.list_item, null);
+            TextView item_tvv = v.findViewById(R.id.item_tvv);
+            item_tvv.setText(list.get(i));
+            ImageView item_ivv = v.findViewById(R.id.item_ivv);
+            item_ivv.setImageResource(integerList.get(i));
+            return v;
+        }
+    }
 
 }
