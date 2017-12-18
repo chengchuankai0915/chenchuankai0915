@@ -239,6 +239,7 @@
                 }
             }
         ]
+<<<<<<< HEAD
     },
     {
         "outputFile": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
@@ -721,5 +722,7 @@
                 }
             }
         ]
+=======
+>>>>>>> a8f7a92f645adf3ee4f280075cfdc59533cc2c8d
     }
 ]

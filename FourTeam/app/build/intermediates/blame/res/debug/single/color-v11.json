@@ -10,6 +10,7 @@
     {
         "merged": "D:\\githup\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\C-PC\\.android\\build-cache\\c92ea8c00247151fe61bbcfebe6029e6116d52df\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+<<<<<<< HEAD
     },
     {
         "merged": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
@@ -22,5 +23,7 @@
     {
         "merged": "F:\\hezuoxiamgmu\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\GUO\\.android\\build-cache\\fbaa9fc2ed74726ebd72a3f20a72c581a2cd0130\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+=======
+>>>>>>> a8f7a92f645adf3ee4f280075cfdc59533cc2c8d
     }
 ]

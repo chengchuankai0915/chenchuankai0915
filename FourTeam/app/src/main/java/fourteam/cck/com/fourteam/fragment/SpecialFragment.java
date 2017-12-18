@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import fourteam.cck.com.fourteam.R;
@@ -43,26 +44,35 @@ public class SpecialFragment extends Fragment implements ChoicenessView{
     @Override
     public void showData(final ChoicenessBean choicenessBean) {
         Log.i("aaa","111"+choicenessBean.getMsg());
+
         List<ChoicenessBean.RetBean.ListBean> sp_list = choicenessBean.getRet().getList();
 
-        recyc_special.setLayoutManager(new GridLayoutManager(getActivity(),2));
-        SpecialAdapter adapter=new SpecialAdapter(getActivity(),sp_list);
-        recyc_special.setAdapter(adapter);
-        adapter.setOnRecyclerListener(new SpecialAdapter.OnRecyclerListener() {
+        //创建一个新集合
+        final List<ChoicenessBean.RetBean.ListBean> sp=new ArrayList<>();
 
-            private String moreURL;
+        for(int i =0;i<sp_list.size();i++){
+            ChoicenessBean.RetBean.ListBean listBean = sp_list.get(i);
+            if(!listBean.getMoreURL().equals("")){
+                sp.add(listBean);
+            }
+        }
+
+        recyc_special.setLayoutManager(new GridLayoutManager(getActivity(),2));
+        SpecialAdapter adapter=new SpecialAdapter(getActivity(),sp);
+        recyc_special.setAdapter(adapter);
+
+        adapter.setOnRecyclerListener(new SpecialAdapter.OnRecyclerListener() {
 
             @Override
             public void onRecycler(int position) {
-                moreURL = choicenessBean.getRet().getList().get(position).getMoreURL();
 
-                if(moreURL.equals("")){
-                    moreURL = "http://api.svipmovie.com/front/columns/getVideoList.do?catalogId=ff8080815b9075a6015b94ef79dc0284&information=null";
-                }
+                String   moreURL = sp.get(position).getMoreURL();
+
+                String   title =sp.get(position).getTitle();
 
                 Intent intent=new Intent(getActivity(), FilmLibraryActivity.class);
                 intent.putExtra("moreURL",moreURL);
-
+                intent.putExtra("title",title);
                 startActivity(intent);
             }
         });

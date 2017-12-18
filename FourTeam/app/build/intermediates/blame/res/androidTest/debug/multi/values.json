@@ -22,6 +22,7 @@
                 }
             }
         ]
+<<<<<<< HEAD
     },
     {
         "outputFile": "D:\\github\\chenchuankai0915\\FourTeam\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
@@ -70,5 +71,7 @@
                 }
             }
         ]
+=======
+>>>>>>> a8f7a92f645adf3ee4f280075cfdc59533cc2c8d
     }
 ]

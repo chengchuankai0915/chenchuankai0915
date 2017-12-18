@@ -9,6 +9,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import java.io.IOException;
 import java.util.List;
@@ -19,9 +21,12 @@ import fourteam.cck.com.fourteam.csh.adapter.FilmAdapter;
 import fourteam.cck.com.fourteam.csh.utils.OkHttpUtils;
 import fourteam.cck.com.fourteam.csh.utils.OnNetListener;
 
+
+
 public class FilmLibraryActivity extends AppCompatActivity {
 
     private RecyclerView film_recycler;
+    private TextView tv;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,8 +34,11 @@ public class FilmLibraryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_film_library);
         //找控件
         film_recycler = (RecyclerView) findViewById(R.id.film_recycler);
-
+        tv = (TextView) findViewById(R.id.tv_title);
         film_recycler.setLayoutManager(new GridLayoutManager(this,3));
+
+       ImageView iv_back= (ImageView) findViewById(R.id.iv_back);
+
         //沉浸室
         if (Build.VERSION.SDK_INT >= 21) {
             View decorView = getWindow().getDecorView();
@@ -43,9 +51,21 @@ public class FilmLibraryActivity extends AppCompatActivity {
         }
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
+
         //获取moreURL
         Intent intent = getIntent();
         String moreURLs = intent.getStringExtra("moreURL");
+        //给主题设置字体
+        String title = intent.getStringExtra("title");
+        tv.setText(title);
+
+        iv_back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                finish();
+            }
+        });
+
         OkHttpUtils.getInstance(this).doget(moreURLs, FilmBean.class, new OnNetListener() {
             @Override
             public void onSuccess(Object o) throws IOException {
